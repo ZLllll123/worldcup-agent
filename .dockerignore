@@ -1,0 +1,16 @@
+.git
+.gitignore
+.idea
+.venv
+venv
+__pycache__
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+data
+work
+outputs

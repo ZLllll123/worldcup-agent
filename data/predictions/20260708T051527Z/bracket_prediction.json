@@ -1,0 +1,236 @@
+{
+  "predicted_champion": "France",
+  "highest_simulated_champion_probability": {
+    "team": "France",
+    "semifinal_probability": 0.74758,
+    "final_probability": 0.46924,
+    "champion_probability": 0.3347,
+    "third_place_win_probability": 0.20932
+  },
+  "matches": [
+    {
+      "match_number": 97,
+      "team_a": "France",
+      "team_b": "Morocco",
+      "predicted_winner": "France",
+      "top_scores": [
+        {
+          "score": "1-0",
+          "probability": 0.1439655179857757
+        },
+        {
+          "score": "2-0",
+          "probability": 0.12271079321544867
+        },
+        {
+          "score": "1-1",
+          "probability": 0.110412003487058
+        },
+        {
+          "score": "2-1",
+          "probability": 0.09411103935139827
+        },
+        {
+          "score": "0-0",
+          "probability": 0.08445088580155717
+        }
+      ]
+    },
+    {
+      "match_number": 98,
+      "team_a": "Spain",
+      "team_b": "Belgium",
+      "predicted_winner": "Spain",
+      "top_scores": [
+        {
+          "score": "1-0",
+          "probability": 0.1523493285245699
+        },
+        {
+          "score": "1-1",
+          "probability": 0.12615479455196574
+        },
+        {
+          "score": "0-0",
+          "probability": 0.11170791803648543
+        },
+        {
+          "score": "2-0",
+          "probability": 0.10388841860926322
+        },
+        {
+          "score": "0-1",
+          "probability": 0.0925011589233746
+        }
+      ]
+    },
+    {
+      "match_number": 99,
+      "team_a": "Norway",
+      "team_b": "England",
+      "predicted_winner": "England",
+      "top_scores": [
+        {
+          "score": "1-2",
+          "probability": 0.0906834057188841
+        },
+        {
+          "score": "1-1",
+          "probability": 0.08032083834682881
+        },
+        {
+          "score": "1-3",
+          "probability": 0.06825526427954187
+        },
+        {
+          "score": "2-2",
+          "probability": 0.06579488182956476
+        },
+        {
+          "score": "0-2",
+          "probability": 0.06249331136484039
+        }
+      ]
+    },
+    {
+      "match_number": 100,
+      "team_a": "Argentina",
+      "team_b": "Switzerland",
+      "predicted_winner": "Argentina",
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.12369158217902634
+        },
+        {
+          "score": "1-0",
+          "probability": 0.11386640826950743
+        },
+        {
+          "score": "2-1",
+          "probability": 0.09124695085697618
+        },
+        {
+          "score": "2-0",
+          "probability": 0.08399894622246892
+        },
+        {
+          "score": "0-1",
+          "probability": 0.08383626717528343
+        }
+      ]
+    },
+    {
+      "match_number": 101,
+      "team_a": "France",
+      "team_b": "Spain",
+      "predicted_winner": "France",
+      "top_scores": [
+        {
+          "score": "0-0",
+          "probability": 0.1754702572134588
+        },
+        {
+          "score": "1-0",
+          "probability": 0.16686165087780308
+        },
+        {
+          "score": "0-1",
+          "probability": 0.13850689241981975
+        },
+        {
+          "score": "1-1",
+          "probability": 0.1317117162426585
+        },
+        {
+          "score": "2-0",
+          "probability": 0.07933769225571712
+        }
+      ]
+    },
+    {
+      "match_number": 102,
+      "team_a": "England",
+      "team_b": "Argentina",
+      "predicted_winner": "Argentina",
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.11128257365704625
+        },
+        {
+          "score": "1-2",
+          "probability": 0.09351086704715071
+        },
+        {
+          "score": "0-1",
+          "probability": 0.08658135387182471
+        },
+        {
+          "score": "0-2",
+          "probability": 0.07275440533593251
+        },
+        {
+          "score": "2-1",
+          "probability": 0.07151546289094157
+        }
+      ]
+    },
+    {
+      "match_number": 103,
+      "team_a": "Spain",
+      "team_b": "England",
+      "predicted_winner": "Spain",
+      "top_scores": [
+        {
+          "score": "1-0",
+          "probability": 0.1731017622488701
+        },
+        {
+          "score": "0-0",
+          "probability": 0.1357566049420232
+        },
+        {
+          "score": "1-1",
+          "probability": 0.12494667436627156
+        },
+        {
+          "score": "2-0",
+          "probability": 0.11036008195130173
+        },
+        {
+          "score": "0-1",
+          "probability": 0.09799054666107114
+        }
+      ]
+    },
+    {
+      "match_number": 104,
+      "team_a": "France",
+      "team_b": "Argentina",
+      "predicted_winner": "France",
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.11448156360464037
+        },
+        {
+          "score": "1-0",
+          "probability": 0.11003815046112095
+        },
+        {
+          "score": "2-1",
+          "probability": 0.09692552378634327
+        },
+        {
+          "score": "2-0",
+          "probability": 0.09316351938341524
+        },
+        {
+          "score": "0-1",
+          "probability": 0.06760875718481256
+        }
+      ]
+    }
+  ]
+}

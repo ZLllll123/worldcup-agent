@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-07-08T05:41:43.759282+00:00",
+  "model_directory": "D:\\python\\pythonprogram\\agent\\data\\model\\20260708T051527Z",
+  "fifa_snapshot_directory": "D:\\python\\pythonprogram\\agent\\data\\processed\\fifa\\20260708T051527Z",
+  "simulations": 50000,
+  "random_seed": 20260708,
+  "base_goals_per_team_match": 1.4196787148594376,
+  "model": {
+    "score_model": "independent Poisson goals",
+    "advancement_model": "90-minute score plus strength-based tiebreak",
+    "strength_inputs": "50% FIFA points, 30% Elo, 20% current form"
+  },
+  "limitations": [
+    "The supplied historical dataset ends in 2018 and omits World Cup 2022.",
+    "Player injuries, expected goals and squad availability are not included."
+  ]
+}

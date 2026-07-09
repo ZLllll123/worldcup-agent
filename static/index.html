@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="基于FIFA排名、历史Elo和蒙特卡洛模拟的世界杯冠军预测Agent">
+  <title>世界杯冠军预测 Agent</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav shell">
+      <a class="brand" href="#top" aria-label="返回顶部">
+        <span class="brand-mark">26</span>
+        <span>WORLD CUP LAB</span>
+      </a>
+      <div id="healthBadge" class="status-badge">正在连接数据…</div>
+    </nav>
+    <div id="top" class="hero-content shell">
+      <div>
+        <p class="eyebrow">EXPLAINABLE FOOTBALL INTELLIGENCE</p>
+        <h1>世界杯冠军<br><span>预测 Agent</span></h1>
+        <p class="hero-copy">让统计模型负责概率，让大模型负责调用工具与解释。每个结论都能追溯到球队实力、赛事状态和模拟结果。</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#chat">询问 Agent</a>
+          <a class="button secondary" href="#bracket">查看预测对阵</a>
+        </div>
+      </div>
+      <aside class="champion-card" aria-live="polite">
+        <p>当前预测冠军</p>
+        <div id="championName" class="champion-name">—</div>
+        <div class="champion-probability"><span id="championProbability">—</span> 夺冠概率</div>
+        <div class="card-rule"></div>
+        <small id="snapshotText">正在载入模型快照</small>
+      </aside>
+    </div>
+  </header>
+
+  <main>
+    <section class="section shell" aria-labelledby="probabilityTitle">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow dark">50,000 MONTE CARLO RUNS</p>
+          <h2 id="probabilityTitle">冠军概率榜</h2>
+        </div>
+        <p>概率不是预言，而是对当前信息的量化表达。</p>
+      </div>
+      <div id="probabilityList" class="probability-list loading-card">正在载入概率…</div>
+    </section>
+
+    <section id="bracket" class="section bracket-section" aria-labelledby="bracketTitle">
+      <div class="shell">
+        <div class="section-heading light">
+          <div>
+            <p class="eyebrow">MODEL-PREDICTED PATH</p>
+            <h2 id="bracketTitle">淘汰赛预测路径</h2>
+          </div>
+          <p>卡片展示模型最可能晋级者；实际比赛仍充满波动。</p>
+        </div>
+        <div id="bracketGrid" class="bracket-grid" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section shell predictor-section" aria-labelledby="predictorTitle">
+      <div class="predictor-copy">
+        <p class="eyebrow dark">HEAD-TO-HEAD LAB</p>
+        <h2 id="predictorTitle">任意对阵预测</h2>
+        <p>选择两支2026参赛队，查看90分钟胜平负、期望进球和晋级概率。</p>
+      </div>
+      <form id="predictForm" class="predict-form">
+        <label>球队 A<select id="teamA" required></select></label>
+        <span class="versus">VS</span>
+        <label>球队 B<select id="teamB" required></select></label>
+        <button class="button primary" type="submit">开始预测</button>
+      </form>
+      <div id="predictResult" class="predict-result" hidden></div>
+    </section>
+
+    <section id="chat" class="section chat-section" aria-labelledby="chatTitle">
+      <div class="shell chat-layout">
+        <div class="chat-intro">
+          <p class="eyebrow dark">TOOL-USING QWEN AGENT</p>
+          <h2 id="chatTitle">向 Agent 提问</h2>
+          <p>Agent 会根据问题调用赛程、球队画像、比赛预测或赛事模拟工具，再给出有依据的回答。</p>
+          <div class="quick-questions">
+            <button type="button" data-question="列出八支球队的夺冠概率，并解释前三名。">谁最可能夺冠？</button>
+            <button type="button" data-question="法国对摩洛哥谁更可能晋级？请解释关键依据。">解释法国 vs 摩洛哥</button>
+            <button type="button" data-question="给我从八强到决赛的完整预测路径。">完整预测路径</button>
+          </div>
+        </div>
+        <div class="chat-card">
+          <div id="chatMessages" class="chat-messages" aria-live="polite">
+            <div class="message assistant">你好，我可以查询赛程、比较球队、预测单场比赛，并解释冠军概率。</div>
+          </div>
+          <form id="chatForm" class="chat-form">
+            <label class="sr-only" for="chatInput">输入问题</label>
+            <textarea id="chatInput" rows="2" maxlength="2000" placeholder="例如：为什么模型更看好法国？" required></textarea>
+            <button id="sendButton" class="send-button" type="submit" aria-label="发送问题">发送</button>
+          </form>
+          <p class="chat-note">预测仅供赛事分析与娱乐，不构成确定性结论。</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell"><span>World Cup Prediction Agent</span><span>FIFA ranking · Elo · Poisson · Monte Carlo · Qwen</span></div>
+  </footer>
+  <script src="/static/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,901 @@
+﻿year,date,host_country,city,stage,home_team,away_team,home_team_raw,away_team_raw,home_score,away_score,score_result,match_result,decision_method,winner,loser,win_conditions_raw,outcome_raw,source_row_number
+1930,1930-07-13,Uruguay,Montevideo,Group 1,France,Mexico,France,Mexico,4,1,H,H,regular,France,Mexico,,H,2
+1930,1930-07-13,Uruguay,Montevideo,Group 4,Belgium,USA,Belgium,United States,0,3,A,A,regular,USA,Belgium,,A,3
+1930,1930-07-14,Uruguay,Montevideo,Group 2,Brazil,Yugoslavia,Brazil,Yugoslavia,1,2,A,A,regular,Yugoslavia,Brazil,,A,4
+1930,1930-07-14,Uruguay,Montevideo,Group 3,Peru,Romania,Peru,Romania,1,3,A,A,regular,Romania,Peru,,A,5
+1930,1930-07-15,Uruguay,Montevideo,Group 1,Argentina,France,Argentina,France,1,0,H,H,regular,Argentina,France,,H,6
+1930,1930-07-16,Uruguay,Montevideo,Group 1,Chile,Mexico,Chile,Mexico,3,0,H,H,regular,Chile,Mexico,,H,7
+1930,1930-07-17,Uruguay,Montevideo,Group 2,Bolivia,Yugoslavia,Bolivia,Yugoslavia,0,4,A,A,regular,Yugoslavia,Bolivia,,A,8
+1930,1930-07-17,Uruguay,Montevideo,Group 4,Paraguay,USA,Paraguay,United States,0,3,A,A,regular,USA,Paraguay,,A,9
+1930,1930-07-18,Uruguay,Montevideo,Group 3,Uruguay,Peru,Uruguay,Peru,1,0,H,H,regular,Uruguay,Peru,,H,10
+1930,1930-07-19,Uruguay,Montevideo,Group 1,Argentina,Mexico,Argentina,Mexico,6,3,H,H,regular,Argentina,Mexico,,H,11
+1930,1930-07-19,Uruguay,Montevideo,Group 1,Chile,France,Chile,France,1,0,H,H,regular,Chile,France,,H,12
+1930,1930-07-20,Uruguay,Montevideo,Group 4,Belgium,Paraguay,Belgium,Paraguay,0,1,A,A,regular,Paraguay,Belgium,,A,13
+1930,1930-07-20,Uruguay,Montevideo,Group 2,Bolivia,Brazil,Bolivia,Brazil,0,4,A,A,regular,Brazil,Bolivia,,A,14
+1930,1930-07-21,Uruguay,Montevideo,Group 3,Uruguay,Romania,Uruguay,Romania,4,0,H,H,regular,Uruguay,Romania,,H,15
+1930,1930-07-22,Uruguay,Montevideo,Group 1,Argentina,Chile,Argentina,Chile,3,1,H,H,regular,Argentina,Chile,,H,16
+1930,1930-07-26,Uruguay,Montevideo,Semifinals,Argentina,USA,Argentina,United States,6,1,H,H,regular,Argentina,USA,,H,17
+1930,1930-07-27,Uruguay,Montevideo,Semifinals,Uruguay,Yugoslavia,Uruguay,Yugoslavia,6,1,H,H,regular,Uruguay,Yugoslavia,,H,18
+1930,1930-07-30,Uruguay,Montevideo,Final,Uruguay,Argentina,Uruguay,Argentina,4,2,H,H,regular,Uruguay,Argentina,,H,19
+1934,1934-05-27,Italy,Bologna,Round of 16,Argentina,Sweden,Argentina,Sweden,2,3,A,A,regular,Sweden,Argentina,,A,20
+1934,1934-05-27,Italy,Turin,Round of 16,Austria,France,Austria,France,3,2,H,H,extra_time,Austria,France,Austria won in AET,H,21
+1934,1934-05-27,Italy,Florence,Round of 16,Belgium,Germany,Belgium,Germany,2,5,A,A,regular,Germany,Belgium,,A,22
+1934,1934-05-27,Italy,Genoa,Round of 16,Brazil,Spain,Brazil,Spain,1,3,A,A,regular,Spain,Brazil,,A,23
+1934,1934-05-27,Italy,Trieste,Round of 16,Czechoslovakia,Romania,Czechoslovakia,Romania,2,1,H,H,regular,Czechoslovakia,Romania,,H,24
+1934,1934-05-27,Italy,Naples,Round of 16,Egypt,Hungary,Egypt,Hungary,2,4,A,A,regular,Hungary,Egypt,,A,25
+1934,1934-05-27,Italy,Rome,Round of 16,Italy,USA,Italy,United States,7,1,H,H,regular,Italy,USA,,H,26
+1934,1934-05-27,Italy,Milan,Round of 16,Netherlands,Switzerland,Netherlands,Switzerland,2,3,A,A,regular,Switzerland,Netherlands,,A,27
+1934,1934-05-31,Italy,Bologna,Quarterfinals,Austria,Hungary,Austria,Hungary,2,1,H,H,regular,Austria,Hungary,,H,28
+1934,1934-05-31,Italy,Turin,Quarterfinals,Czechoslovakia,Switzerland,Czechoslovakia,Switzerland,3,2,H,H,regular,Czechoslovakia,Switzerland,,H,29
+1934,1934-05-31,Italy,Milan,Quarterfinals,Germany,Sweden,Germany,Sweden,2,1,H,H,regular,Germany,Sweden,,H,30
+1934,1934-05-31,Italy,Florence,Quarterfinals,Italy,Spain,Italy,Spain,1,1,D,D,regular,,,,D,31
+1934,1934-06-01,Italy,Florence,Quarterfinals,Italy,Spain,Italy,Spain,1,0,H,H,regular,Italy,Spain,,H,32
+1934,1934-06-03,Italy,Rome,Semifinals,Czechoslovakia,Germany,Czechoslovakia,Germany,3,1,H,H,regular,Czechoslovakia,Germany,,H,33
+1934,1934-06-03,Italy,Milan,Semifinals,Italy,Austria,Italy,Austria,1,0,H,H,regular,Italy,Austria,,H,34
+1934,1934-06-07,Italy,Naples,Third place,Austria,Germany,Austria,Germany,2,3,A,A,regular,Germany,Austria,,A,35
+1934,1934-06-10,Italy,Rome,Final,Italy,Czechoslovakia,Italy,Czechoslovakia,2,1,H,H,extra_time,Italy,Czechoslovakia,Italy won in AET,H,36
+1938,1938-06-04,France,Paris,Round of 16,Germany,Switzerland,Germany,Switzerland,1,1,D,D,regular,,,,D,37
+1938,1938-06-05,France,Strasbourg,Round of 16,Brazil,Poland,Brazil,Poland,6,5,H,H,extra_time,Brazil,Poland,Brazil won in AET,H,38
+1938,1938-06-05,France,Toulouse,Round of 16,Cuba,Romania,Cuba,Romania,3,3,D,D,regular,,,,D,39
+1938,1938-06-05,France,Le Havre,Round of 16,Czechoslovakia,Netherlands,Czechoslovakia,Netherlands,3,0,H,H,extra_time,Czechoslovakia,Netherlands,Czechoslovakia won in AET,H,40
+1938,1938-06-05,France,Colombes,Round of 16,France,Belgium,France,Belgium,3,1,H,H,regular,France,Belgium,,H,41
+1938,1938-06-05,France,Reims,Round of 16,Hungary,Dutch West Indies,Hungary,Dutch West Indies,6,0,H,H,regular,Hungary,Dutch West Indies,,H,42
+1938,1938-06-05,France,Marseille,Round of 16,Italy,Norway,Italy,Norway,2,1,H,H,extra_time,Italy,Norway,Italy won in AET,H,43
+1938,1938-06-09,France,Toulouse,Round of 16,Cuba,Romania,Cuba,Romania,2,1,H,H,regular,Cuba,Romania,,H,44
+1938,1938-06-09,France,Paris,Round of 16,Germany,Switzerland,Germany,Switzerland,2,4,A,A,regular,Switzerland,Germany,,A,45
+1938,1938-06-12,France,Bordeaux,Quarterfinals,Brazil,Czechoslovakia,Brazil,Czechoslovakia,1,1,D,D,regular,,,,D,46
+1938,1938-06-12,France,Antibes,Quarterfinals,Cuba,Sweden,Cuba,Sweden,0,8,A,A,regular,Sweden,Cuba,,A,47
+1938,1938-06-12,France,Colombes,Quarterfinals,France,Italy,France,Italy,1,3,A,A,regular,Italy,France,,A,48
+1938,1938-06-12,France,Lille,Quarterfinals,Hungary,Switzerland,Hungary,Switzerland,2,0,H,H,regular,Hungary,Switzerland,,H,49
+1938,1938-06-14,France,Bordeaux,Quarterfinals,Brazil,Czechoslovakia,Brazil,Czechoslovakia,2,1,H,H,regular,Brazil,Czechoslovakia,,H,50
+1938,1938-06-16,France,Marseille,Semifinals,Brazil,Italy,Brazil,Italy,1,2,A,A,regular,Italy,Brazil,,A,51
+1938,1938-06-16,France,Paris,Semifinals,Hungary,Sweden,Hungary,Sweden,5,1,H,H,regular,Hungary,Sweden,,H,52
+1938,1938-06-19,France,Bordeaux,Third place,Brazil,Sweden,Brazil,Sweden,4,2,H,H,regular,Brazil,Sweden,,H,53
+1938,1938-06-19,France,Colombes,Final,Hungary,Italy,Hungary,Italy,2,4,A,A,regular,Italy,Hungary,,A,54
+1950,1950-06-24,Brazil,Rio de Janeiro,Group 1,Brazil,Mexico,Brazil,Mexico,4,0,H,H,regular,Brazil,Mexico,,H,55
+1950,1950-06-25,Brazil,Rio de Janeiro,Group 2,Chile,England,Chile,England,0,2,A,A,regular,England,Chile,,A,56
+1950,1950-06-25,Brazil,São Paulo,Group 3,Italy,Sweden,Italy,Sweden,2,3,A,A,regular,Sweden,Italy,,A,57
+1950,1950-06-25,Brazil,Curitiba,Group 2,Spain,USA,Spain,United States,3,1,H,H,regular,Spain,USA,,H,58
+1950,1950-06-25,Brazil,Belo Horizonte,Group 1,Switzerland,Yugoslavia,Switzerland,Yugoslavia,0,3,A,A,regular,Yugoslavia,Switzerland,,A,59
+1950,1950-06-28,Brazil,São Paulo,Group 1,Brazil,Switzerland,Brazil,Switzerland,2,2,D,D,regular,,,,D,60
+1950,1950-06-28,Brazil,Porto Alegre,Group 1,Mexico,Yugoslavia,Mexico,Yugoslavia,1,4,A,A,regular,Yugoslavia,Mexico,,A,61
+1950,1950-06-29,Brazil,Rio de Janeiro,Group 2,Chile,Spain,Chile,Spain,0,2,A,A,regular,Spain,Chile,,A,62
+1950,1950-06-29,Brazil,Belo Horizonte,Group 2,England,USA,England,United States,0,1,A,A,regular,USA,England,,A,63
+1950,1950-06-29,Brazil,Curitiba,Group 3,Paraguay,Sweden,Paraguay,Sweden,2,2,D,D,regular,,,,D,64
+1950,1950-07-01,Brazil,Rio de Janeiro,Group 1,Brazil,Yugoslavia,Brazil,Yugoslavia,2,0,H,H,regular,Brazil,Yugoslavia,,H,65
+1950,1950-07-02,Brazil,Belo Horizonte,Group 4,Bolivia,Uruguay,Bolivia,Uruguay,0,8,A,A,regular,Uruguay,Bolivia,,A,66
+1950,1950-07-02,Brazil,Recife,Group 2,Chile,USA,Chile,United States,5,2,H,H,regular,Chile,USA,,H,67
+1950,1950-07-02,Brazil,Rio de Janeiro,Group 2,England,Spain,England,Spain,0,1,A,A,regular,Spain,England,,A,68
+1950,1950-07-02,Brazil,São Paulo,Group 3,Italy,Paraguay,Italy,Paraguay,2,0,H,H,regular,Italy,Paraguay,,H,69
+1950,1950-07-02,Brazil,Porto Alegre,Group 1,Mexico,Switzerland,Mexico,Switzerland,1,2,A,A,regular,Switzerland,Mexico,,A,70
+1950,1950-07-09,Brazil,Rio de Janeiro,Final Round,Brazil,Sweden,Brazil,Sweden,7,1,H,H,regular,Brazil,Sweden,,H,71
+1950,1950-07-09,Brazil,São Paulo,Final Round,Spain,Uruguay,Spain,Uruguay,2,2,D,D,regular,,,,D,72
+1950,1950-07-13,Brazil,Rio de Janeiro,Final Round,Brazil,Spain,Brazil,Spain,6,1,H,H,regular,Brazil,Spain,,H,73
+1950,1950-07-13,Brazil,São Paulo,Final Round,Sweden,Uruguay,Sweden,Uruguay,2,3,A,A,regular,Uruguay,Sweden,,A,74
+1950,1950-07-16,Brazil,Rio de Janeiro,Final Round,Brazil,Uruguay,Brazil,Uruguay,1,2,A,A,regular,Uruguay,Brazil,,A,75
+1950,1950-07-16,Brazil,São Paulo,Final Round,Spain,Sweden,Spain,Sweden,1,3,A,A,regular,Sweden,Spain,,A,76
+1954,1954-06-16,Switzerland,Zürich,Group 3,Austria,Scotland,Austria,Scotland,1,0,H,H,regular,Austria,Scotland,,H,77
+1954,1954-06-16,Switzerland,Geneva,Group 1,Brazil,Mexico,Brazil,Mexico,5,0,H,H,regular,Brazil,Mexico,,H,78
+1954,1954-06-16,Switzerland,Berne,Group 3,Czechoslovakia,Uruguay,Czechoslovakia,Uruguay,0,2,A,A,regular,Uruguay,Czechoslovakia,,A,79
+1954,1954-06-16,Switzerland,Lausanne,Group 1,France,Yugoslavia,France,Yugoslavia,0,1,A,A,regular,Yugoslavia,France,,A,80
+1954,1954-06-17,Switzerland,Basel,Group 4,Belgium,England,Belgium,England,4,4,D,D,regular,,,,D,81
+1954,1954-06-17,Switzerland,Berne,Group 2,Germany,Türkiye,West Germany,Turkey,4,1,H,H,regular,Germany,Türkiye,,H,82
+1954,1954-06-17,Switzerland,Zürich,Group 2,Hungary,Korea Republic,Hungary,South Korea,9,0,H,H,regular,Hungary,Korea Republic,,H,83
+1954,1954-06-17,Switzerland,Lausanne,Group 4,Switzerland,Italy,Switzerland,Italy,2,1,H,H,regular,Switzerland,Italy,,H,84
+1954,1954-06-19,Switzerland,Zürich,Group 3,Austria,Czechoslovakia,Austria,Czechoslovakia,5,0,H,H,regular,Austria,Czechoslovakia,,H,85
+1954,1954-06-19,Switzerland,Lausanne,Group 1,Brazil,Yugoslavia,Brazil,Yugoslavia,1,1,D,D,regular,,,,D,86
+1954,1954-06-19,Switzerland,Geneva,Group 1,France,Mexico,France,Mexico,3,2,H,H,regular,France,Mexico,,H,87
+1954,1954-06-19,Switzerland,Basel,Group 3,Scotland,Uruguay,Scotland,Uruguay,0,7,A,A,regular,Uruguay,Scotland,,A,88
+1954,1954-06-20,Switzerland,Lugano,Group 4,Belgium,Italy,Belgium,Italy,1,4,A,A,regular,Italy,Belgium,,A,89
+1954,1954-06-20,Switzerland,Basel,Group 2,Germany,Hungary,West Germany,Hungary,3,8,A,A,regular,Hungary,Germany,,A,90
+1954,1954-06-20,Switzerland,Geneva,Group 2,Korea Republic,Türkiye,South Korea,Turkey,0,7,A,A,regular,Türkiye,Korea Republic,,A,91
+1954,1954-06-20,Switzerland,Berne,Group 4,Switzerland,England,Switzerland,England,0,2,A,A,regular,England,Switzerland,,A,92
+1954,1954-06-23,Switzerland,Zürich,Group 2,Germany,Türkiye,West Germany,Turkey,7,2,H,H,regular,Germany,Türkiye,,H,93
+1954,1954-06-23,Switzerland,Basel,Group 4,Switzerland,Italy,Switzerland,Italy,4,1,H,H,regular,Switzerland,Italy,,H,94
+1954,1954-06-26,Switzerland,Basel,Quarterfinals,England,Uruguay,England,Uruguay,2,4,A,A,regular,Uruguay,England,,A,95
+1954,1954-06-26,Switzerland,Lausanne,Quarterfinals,Switzerland,Austria,Switzerland,Austria,5,7,A,A,regular,Austria,Switzerland,,A,96
+1954,1954-06-27,Switzerland,Berne,Quarterfinals,Brazil,Hungary,Brazil,Hungary,2,4,A,A,regular,Hungary,Brazil,,A,97
+1954,1954-06-27,Switzerland,Geneva,Quarterfinals,Germany,Yugoslavia,West Germany,Yugoslavia,2,0,H,H,regular,Germany,Yugoslavia,,H,98
+1954,1954-06-30,Switzerland,Basel,Semifinals,Austria,Germany,Austria,West Germany,1,6,A,A,regular,Germany,Austria,,A,99
+1954,1954-06-30,Switzerland,Lausanne,Semifinals,Hungary,Uruguay,Hungary,Uruguay,4,2,H,H,extra_time,Hungary,Uruguay,Hungary won in AET,H,100
+1954,1954-07-03,Switzerland,Zürich,Third place,Austria,Uruguay,Austria,Uruguay,3,1,H,H,regular,Austria,Uruguay,,H,101
+1954,1954-07-04,Switzerland,Berne,Final,Germany,Hungary,West Germany,Hungary,3,2,H,H,regular,Germany,Hungary,,H,102
+1958,1958-06-08,Sweden,Malmö,Group 1,Argentina,Germany,Argentina,West Germany,1,3,A,A,regular,Germany,Argentina,,A,103
+1958,1958-06-08,Sweden,Uddevalla,Group 4,Austria,Brazil,Austria,Brazil,0,3,A,A,regular,Brazil,Austria,,A,104
+1958,1958-06-08,Sweden,Halmstad,Group 1,Czechoslovakia,Northern Ireland,Czechoslovakia,Northern Ireland,0,1,A,A,regular,Northern Ireland,Czechoslovakia,,A,105
+1958,1958-06-08,Sweden,Gothenburg,Group 4,England,Soviet Union,England,Soviet Union,2,2,D,D,regular,,,,D,106
+1958,1958-06-08,Sweden,Norrköping,Group 2,France,Paraguay,France,Paraguay,7,3,H,H,regular,France,Paraguay,,H,107
+1958,1958-06-08,Sweden,Sandviken,Group 3,Hungary,Wales,Hungary,Wales,1,1,D,D,regular,,,,D,108
+1958,1958-06-08,Sweden,Västerås,Group 2,Scotland,Yugoslavia,Scotland,Yugoslavia,1,1,D,D,regular,,,,D,109
+1958,1958-06-08,Sweden,Solna,Group 3,Sweden,Mexico,Sweden,Mexico,3,0,H,H,regular,Sweden,Mexico,,H,110
+1958,1958-06-11,Sweden,Halmstad,Group 1,Argentina,Northern Ireland,Argentina,Northern Ireland,3,1,H,H,regular,Argentina,Northern Ireland,,H,111
+1958,1958-06-11,Sweden,Borås,Group 4,Austria,Soviet Union,Austria,Soviet Union,0,2,A,A,regular,Soviet Union,Austria,,A,112
+1958,1958-06-11,Sweden,Gothenburg,Group 4,Brazil,England,Brazil,England,0,0,D,D,regular,,,,D,113
+1958,1958-06-11,Sweden,Helsingborg,Group 1,Czechoslovakia,Germany,Czechoslovakia,West Germany,2,2,D,D,regular,,,,D,114
+1958,1958-06-11,Sweden,Västerås,Group 2,France,Yugoslavia,France,Yugoslavia,2,3,A,A,regular,Yugoslavia,France,,A,115
+1958,1958-06-11,Sweden,Solna,Group 3,Mexico,Wales,Mexico,Wales,1,1,D,D,regular,,,,D,116
+1958,1958-06-11,Sweden,Norrköping,Group 2,Paraguay,Scotland,Paraguay,Scotland,3,2,H,H,regular,Paraguay,Scotland,,H,117
+1958,1958-06-12,Sweden,Solna,Group 3,Sweden,Hungary,Sweden,Hungary,2,1,H,H,regular,Sweden,Hungary,,H,118
+1958,1958-06-15,Sweden,Helsingborg,Group 1,Argentina,Czechoslovakia,Argentina,Czechoslovakia,1,6,A,A,regular,Czechoslovakia,Argentina,,A,119
+1958,1958-06-15,Sweden,Borås,Group 4,Austria,England,Austria,England,2,2,D,D,regular,,,,D,120
+1958,1958-06-15,Sweden,Gothenburg,Group 4,Brazil,Soviet Union,Brazil,Soviet Union,2,0,H,H,regular,Brazil,Soviet Union,,H,121
+1958,1958-06-15,Sweden,Örebro,Group 2,France,Scotland,France,Scotland,2,1,H,H,regular,France,Scotland,,H,122
+1958,1958-06-15,Sweden,Malmö,Group 1,Germany,Northern Ireland,West Germany,Northern Ireland,2,2,D,D,regular,,,,D,123
+1958,1958-06-15,Sweden,Sandviken,Group 3,Hungary,Mexico,Hungary,Mexico,4,0,H,H,regular,Hungary,Mexico,,H,124
+1958,1958-06-15,Sweden,Eskilstuna,Group 2,Paraguay,Yugoslavia,Paraguay,Yugoslavia,3,3,D,D,regular,,,,D,125
+1958,1958-06-15,Sweden,Solna,Group 3,Sweden,Wales,Sweden,Wales,0,0,D,D,regular,,,,D,126
+1958,1958-06-17,Sweden,Malmö,Group 1,Czechoslovakia,Northern Ireland,Czechoslovakia,Northern Ireland,1,2,A,A,extra_time,Northern Ireland,Czechoslovakia,Northern Ireland won in AET,A,127
+1958,1958-06-17,Sweden,Gothenburg,Group 4,England,Soviet Union,England,Soviet Union,0,1,A,A,regular,Soviet Union,England,,A,128
+1958,1958-06-17,Sweden,Solna,Group 3,Hungary,Wales,Hungary,Wales,1,2,A,A,regular,Wales,Hungary,,A,129
+1958,1958-06-19,Sweden,Gothenburg,Quarterfinals,Brazil,Wales,Brazil,Wales,1,0,H,H,regular,Brazil,Wales,,H,130
+1958,1958-06-19,Sweden,Norrköping,Quarterfinals,France,Northern Ireland,France,Northern Ireland,4,0,H,H,regular,France,Northern Ireland,,H,131
+1958,1958-06-19,Sweden,Malmö,Quarterfinals,Germany,Yugoslavia,West Germany,Yugoslavia,1,0,H,H,regular,Germany,Yugoslavia,,H,132
+1958,1958-06-19,Sweden,Solna,Quarterfinals,Sweden,Soviet Union,Sweden,Soviet Union,2,0,H,H,regular,Sweden,Soviet Union,,H,133
+1958,1958-06-24,Sweden,Solna,Semifinals,Brazil,France,Brazil,France,5,2,H,H,regular,Brazil,France,,H,134
+1958,1958-06-24,Sweden,Gothenburg,Semifinals,Sweden,Germany,Sweden,West Germany,3,1,H,H,regular,Sweden,Germany,,H,135
+1958,1958-06-28,Sweden,Gothenburg,Third place,France,Germany,France,West Germany,6,3,H,H,regular,France,Germany,,H,136
+1958,1958-06-29,Sweden,Solna,Final,Sweden,Brazil,Sweden,Brazil,2,5,A,A,regular,Brazil,Sweden,,A,137
+1962,1962-05-30,Chile,Rancagua,Group 4,Argentina,Bulgaria,Argentina,Bulgaria,1,0,H,H,regular,Argentina,Bulgaria,,H,138
+1962,1962-05-30,Chile,Viña del Mar,Group 3,Brazil,Mexico,Brazil,Mexico,2,0,H,H,regular,Brazil,Mexico,,H,139
+1962,1962-05-30,Chile,Santiago,Group 2,Chile,Switzerland,Chile,Switzerland,3,1,H,H,regular,Chile,Switzerland,,H,140
+1962,1962-05-30,Chile,Arica,Group 1,Colombia,Uruguay,Colombia,Uruguay,1,2,A,A,regular,Uruguay,Colombia,,A,141
+1962,1962-05-31,Chile,Viña del Mar,Group 3,Czechoslovakia,Spain,Czechoslovakia,Spain,1,0,H,H,regular,Czechoslovakia,Spain,,H,142
+1962,1962-05-31,Chile,Rancagua,Group 4,England,Hungary,England,Hungary,1,2,A,A,regular,Hungary,England,,A,143
+1962,1962-05-31,Chile,Santiago,Group 2,Germany,Italy,West Germany,Italy,0,0,D,D,regular,,,,D,144
+1962,1962-05-31,Chile,Arica,Group 1,Soviet Union,Yugoslavia,Soviet Union,Yugoslavia,2,0,H,H,regular,Soviet Union,Yugoslavia,,H,145
+1962,1962-06-02,Chile,Rancagua,Group 4,Argentina,England,Argentina,England,1,3,A,A,regular,England,Argentina,,A,146
+1962,1962-06-02,Chile,Viña del Mar,Group 3,Brazil,Czechoslovakia,Brazil,Czechoslovakia,0,0,D,D,regular,,,,D,147
+1962,1962-06-02,Chile,Santiago,Group 2,Chile,Italy,Chile,Italy,2,0,H,H,regular,Chile,Italy,,H,148
+1962,1962-06-02,Chile,Arica,Group 1,Uruguay,Yugoslavia,Uruguay,Yugoslavia,1,3,A,A,regular,Yugoslavia,Uruguay,,A,149
+1962,1962-06-03,Chile,Rancagua,Group 4,Bulgaria,Hungary,Bulgaria,Hungary,1,6,A,A,regular,Hungary,Bulgaria,,A,150
+1962,1962-06-03,Chile,Arica,Group 1,Colombia,Soviet Union,Colombia,Soviet Union,4,4,D,D,regular,,,,D,151
+1962,1962-06-03,Chile,Santiago,Group 2,Germany,Switzerland,West Germany,Switzerland,2,1,H,H,regular,Germany,Switzerland,,H,152
+1962,1962-06-03,Chile,Viña del Mar,Group 3,Mexico,Spain,Mexico,Spain,0,1,A,A,regular,Spain,Mexico,,A,153
+1962,1962-06-06,Chile,Rancagua,Group 4,Argentina,Hungary,Argentina,Hungary,0,0,D,D,regular,,,,D,154
+1962,1962-06-06,Chile,Viña del Mar,Group 3,Brazil,Spain,Brazil,Spain,2,1,H,H,regular,Brazil,Spain,,H,155
+1962,1962-06-06,Chile,Santiago,Group 2,Chile,Germany,Chile,West Germany,0,2,A,A,regular,Germany,Chile,,A,156
+1962,1962-06-06,Chile,Arica,Group 1,Soviet Union,Uruguay,Soviet Union,Uruguay,2,1,H,H,regular,Soviet Union,Uruguay,,H,157
+1962,1962-06-07,Chile,Rancagua,Group 4,Bulgaria,England,Bulgaria,England,0,0,D,D,regular,,,,D,158
+1962,1962-06-07,Chile,Arica,Group 1,Colombia,Yugoslavia,Colombia,Yugoslavia,0,5,A,A,regular,Yugoslavia,Colombia,,A,159
+1962,1962-06-07,Chile,Viña del Mar,Group 3,Czechoslovakia,Mexico,Czechoslovakia,Mexico,1,3,A,A,regular,Mexico,Czechoslovakia,,A,160
+1962,1962-06-07,Chile,Santiago,Group 2,Italy,Switzerland,Italy,Switzerland,3,0,H,H,regular,Italy,Switzerland,,H,161
+1962,1962-06-10,Chile,Viña del Mar,Quarterfinals,Brazil,England,Brazil,England,3,1,H,H,regular,Brazil,England,,H,162
+1962,1962-06-10,Chile,Arica,Quarterfinals,Chile,Soviet Union,Chile,Soviet Union,2,1,H,H,regular,Chile,Soviet Union,,H,163
+1962,1962-06-10,Chile,Rancagua,Quarterfinals,Czechoslovakia,Hungary,Czechoslovakia,Hungary,1,0,H,H,regular,Czechoslovakia,Hungary,,H,164
+1962,1962-06-10,Chile,Santiago,Quarterfinals,Germany,Yugoslavia,West Germany,Yugoslavia,0,1,A,A,regular,Yugoslavia,Germany,,A,165
+1962,1962-06-13,Chile,Santiago,Semifinals,Chile,Brazil,Chile,Brazil,2,4,A,A,regular,Brazil,Chile,,A,166
+1962,1962-06-13,Chile,Viña del Mar,Semifinals,Czechoslovakia,Yugoslavia,Czechoslovakia,Yugoslavia,3,1,H,H,regular,Czechoslovakia,Yugoslavia,,H,167
+1962,1962-06-16,Chile,Santiago,Third place,Chile,Yugoslavia,Chile,Yugoslavia,1,0,H,H,regular,Chile,Yugoslavia,,H,168
+1962,1962-06-17,Chile,Santiago,Final,Brazil,Czechoslovakia,Brazil,Czechoslovakia,3,1,H,H,regular,Brazil,Czechoslovakia,,H,169
+1966,1966-07-11,England,London,Group 1,England,Uruguay,England,Uruguay,0,0,D,D,regular,,,,D,170
+1966,1966-07-12,England,Liverpool,Group 3,Brazil,Bulgaria,Brazil,Bulgaria,2,0,H,H,regular,Brazil,Bulgaria,,H,171
+1966,1966-07-12,England,Sheffield,Group 2,Germany,Switzerland,West Germany,Switzerland,5,0,H,H,regular,Germany,Switzerland,,H,172
+1966,1966-07-12,England,Middlesbrough,Group 4,North Korea,Soviet Union,North Korea,Soviet Union,0,3,A,A,regular,Soviet Union,North Korea,,A,173
+1966,1966-07-13,England,Birmingham,Group 2,Argentina,Spain,Argentina,Spain,2,1,H,H,regular,Argentina,Spain,,H,174
+1966,1966-07-13,England,Sunderland,Group 4,Chile,Italy,Chile,Italy,0,2,A,A,regular,Italy,Chile,,A,175
+1966,1966-07-13,England,London,Group 1,France,Mexico,France,Mexico,1,1,D,D,regular,,,,D,176
+1966,1966-07-13,England,Manchester,Group 3,Hungary,Portugal,Hungary,Portugal,1,3,A,A,regular,Portugal,Hungary,,A,177
+1966,1966-07-15,England,Liverpool,Group 3,Brazil,Hungary,Brazil,Hungary,1,3,A,A,regular,Hungary,Brazil,,A,178
+1966,1966-07-15,England,Middlesbrough,Group 4,Chile,North Korea,Chile,North Korea,1,1,D,D,regular,,,,D,179
+1966,1966-07-15,England,London,Group 1,France,Uruguay,France,Uruguay,1,2,A,A,regular,Uruguay,France,,A,180
+1966,1966-07-15,England,Sheffield,Group 2,Spain,Switzerland,Spain,Switzerland,2,1,H,H,regular,Spain,Switzerland,,H,181
+1966,1966-07-16,England,Birmingham,Group 2,Argentina,Germany,Argentina,West Germany,0,0,D,D,regular,,,,D,182
+1966,1966-07-16,England,Manchester,Group 3,Bulgaria,Portugal,Bulgaria,Portugal,0,3,A,A,regular,Portugal,Bulgaria,,A,183
+1966,1966-07-16,England,London,Group 1,England,Mexico,England,Mexico,2,0,H,H,regular,England,Mexico,,H,184
+1966,1966-07-16,England,Sunderland,Group 4,Italy,Soviet Union,Italy,Soviet Union,0,1,A,A,regular,Soviet Union,Italy,,A,185
+1966,1966-07-19,England,Sheffield,Group 2,Argentina,Switzerland,Argentina,Switzerland,2,0,H,H,regular,Argentina,Switzerland,,H,186
+1966,1966-07-19,England,Liverpool,Group 3,Brazil,Portugal,Brazil,Portugal,1,3,A,A,regular,Portugal,Brazil,,A,187
+1966,1966-07-19,England,Middlesbrough,Group 4,Italy,North Korea,Italy,North Korea,0,1,A,A,regular,North Korea,Italy,,A,188
+1966,1966-07-19,England,London,Group 1,Mexico,Uruguay,Mexico,Uruguay,0,0,D,D,regular,,,,D,189
+1966,1966-07-20,England,Manchester,Group 3,Bulgaria,Hungary,Bulgaria,Hungary,1,3,A,A,regular,Hungary,Bulgaria,,A,190
+1966,1966-07-20,England,Sunderland,Group 4,Chile,Soviet Union,Chile,Soviet Union,1,2,A,A,regular,Soviet Union,Chile,,A,191
+1966,1966-07-20,England,London,Group 1,England,France,England,France,2,0,H,H,regular,England,France,,H,192
+1966,1966-07-20,England,Birmingham,Group 2,Germany,Spain,West Germany,Spain,2,1,H,H,regular,Germany,Spain,,H,193
+1966,1966-07-23,England,London,Quarterfinals,England,Argentina,England,Argentina,1,0,H,H,regular,England,Argentina,,H,194
+1966,1966-07-23,England,Sheffield,Quarterfinals,Germany,Uruguay,West Germany,Uruguay,4,0,H,H,regular,Germany,Uruguay,,H,195
+1966,1966-07-23,England,Sunderland,Quarterfinals,Hungary,Soviet Union,Hungary,Soviet Union,1,2,A,A,regular,Soviet Union,Hungary,,A,196
+1966,1966-07-23,England,Liverpool,Quarterfinals,North Korea,Portugal,North Korea,Portugal,3,5,A,A,regular,Portugal,North Korea,,A,197
+1966,1966-07-25,England,Liverpool,Semifinals,Germany,Soviet Union,West Germany,Soviet Union,2,1,H,H,regular,Germany,Soviet Union,,H,198
+1966,1966-07-26,England,London,Semifinals,England,Portugal,England,Portugal,2,1,H,H,regular,England,Portugal,,H,199
+1966,1966-07-28,England,London,Third place,Portugal,Soviet Union,Portugal,Soviet Union,2,1,H,H,regular,Portugal,Soviet Union,,H,200
+1966,1966-07-30,England,London,Final,England,Germany,England,West Germany,4,2,H,H,extra_time,England,Germany,England won in AET,H,201
+1970,1970-05-31,Mexico,Mexico City,Group 1,Mexico,Soviet Union,Mexico,Soviet Union,0,0,D,D,regular,,,,D,202
+1970,1970-06-02,Mexico,León,Group 4,Bulgaria,Peru,Bulgaria,Peru,2,3,A,A,regular,Peru,Bulgaria,,A,203
+1970,1970-06-02,Mexico,Guadalajara,Group 3,England,Romania,England,Romania,1,0,H,H,regular,England,Romania,,H,204
+1970,1970-06-02,Mexico,Puebla,Group 2,Israel,Uruguay,Israel,Uruguay,0,2,A,A,regular,Uruguay,Israel,,A,205
+1970,1970-06-03,Mexico,Mexico City,Group 1,Belgium,El Salvador,Belgium,El Salvador,3,0,H,H,regular,Belgium,El Salvador,,H,206
+1970,1970-06-03,Mexico,Guadalajara,Group 3,Brazil,Czechoslovakia,Brazil,Czechoslovakia,4,1,H,H,regular,Brazil,Czechoslovakia,,H,207
+1970,1970-06-03,Mexico,León,Group 4,Germany,Morocco,West Germany,Morocco,2,1,H,H,regular,Germany,Morocco,,H,208
+1970,1970-06-03,Mexico,Toluca,Group 2,Italy,Sweden,Italy,Sweden,1,0,H,H,regular,Italy,Sweden,,H,209
+1970,1970-06-06,Mexico,Mexico City,Group 1,Belgium,Soviet Union,Belgium,Soviet Union,1,4,A,A,regular,Soviet Union,Belgium,,A,210
+1970,1970-06-06,Mexico,Guadalajara,Group 3,Czechoslovakia,Romania,Czechoslovakia,Romania,1,2,A,A,regular,Romania,Czechoslovakia,,A,211
+1970,1970-06-06,Mexico,Puebla,Group 2,Italy,Uruguay,Italy,Uruguay,0,0,D,D,regular,,,,D,212
+1970,1970-06-06,Mexico,León,Group 4,Morocco,Peru,Morocco,Peru,0,3,A,A,regular,Peru,Morocco,,A,213
+1970,1970-06-07,Mexico,Guadalajara,Group 3,Brazil,England,Brazil,England,1,0,H,H,regular,Brazil,England,,H,214
+1970,1970-06-07,Mexico,León,Group 4,Bulgaria,Germany,Bulgaria,West Germany,2,5,A,A,regular,Germany,Bulgaria,,A,215
+1970,1970-06-07,Mexico,Toluca,Group 2,Israel,Sweden,Israel,Sweden,1,1,D,D,regular,,,,D,216
+1970,1970-06-07,Mexico,Mexico City,Group 1,Mexico,El Salvador,Mexico,El Salvador,4,0,H,H,regular,Mexico,El Salvador,,H,217
+1970,1970-06-10,Mexico,Guadalajara,Group 3,Brazil,Romania,Brazil,Romania,3,2,H,H,regular,Brazil,Romania,,H,218
+1970,1970-06-10,Mexico,Mexico City,Group 1,El Salvador,Soviet Union,El Salvador,Soviet Union,0,2,A,A,regular,Soviet Union,El Salvador,,A,219
+1970,1970-06-10,Mexico,León,Group 4,Germany,Peru,West Germany,Peru,3,1,H,H,regular,Germany,Peru,,H,220
+1970,1970-06-10,Mexico,Puebla,Group 2,Sweden,Uruguay,Sweden,Uruguay,1,0,H,H,regular,Sweden,Uruguay,,H,221
+1970,1970-06-11,Mexico,León,Group 4,Bulgaria,Morocco,Bulgaria,Morocco,1,1,D,D,regular,,,,D,222
+1970,1970-06-11,Mexico,Guadalajara,Group 3,Czechoslovakia,England,Czechoslovakia,England,0,1,A,A,regular,England,Czechoslovakia,,A,223
+1970,1970-06-11,Mexico,Toluca,Group 2,Israel,Italy,Israel,Italy,0,0,D,D,regular,,,,D,224
+1970,1970-06-11,Mexico,Mexico City,Group 1,Mexico,Belgium,Mexico,Belgium,1,0,H,H,regular,Mexico,Belgium,,H,225
+1970,1970-06-14,Mexico,Guadalajara,Quarterfinals,Brazil,Peru,Brazil,Peru,4,2,H,H,regular,Brazil,Peru,,H,226
+1970,1970-06-14,Mexico,León,Quarterfinals,England,Germany,England,West Germany,2,3,A,A,extra_time,Germany,England,West Germany won in AET,A,227
+1970,1970-06-14,Mexico,Toluca,Quarterfinals,Mexico,Italy,Mexico,Italy,1,4,A,A,regular,Italy,Mexico,,A,228
+1970,1970-06-14,Mexico,Mexico City,Quarterfinals,Soviet Union,Uruguay,Soviet Union,Uruguay,0,1,A,A,extra_time,Uruguay,Soviet Union,Uruguay won in AET,A,229
+1970,1970-06-17,Mexico,Guadalajara,Semifinals,Brazil,Uruguay,Brazil,Uruguay,3,1,H,H,regular,Brazil,Uruguay,,H,230
+1970,1970-06-17,Mexico,Mexico City,Semifinals,Germany,Italy,West Germany,Italy,3,4,A,A,extra_time,Italy,Germany,Italy won in AET,A,231
+1970,1970-06-20,Mexico,Mexico City,Third place,Germany,Uruguay,West Germany,Uruguay,1,0,H,H,regular,Germany,Uruguay,,H,232
+1970,1970-06-21,Mexico,Mexico City,Final,Brazil,Italy,Brazil,Italy,4,1,H,H,regular,Brazil,Italy,,H,233
+1974,1974-06-13,Germany,Frankfurt am Main,Group 2,Brazil,Yugoslavia,Brazil,Yugoslavia,0,0,D,D,regular,,,,D,234
+1974,1974-06-14,Germany,Dortmund,Group 2,Congo DR,Scotland,Zaire,Scotland,0,2,A,A,regular,Scotland,Congo DR,,A,235
+1974,1974-06-14,Germany,Hamburg,Group 1,East Germany,Australia,East Germany,Australia,2,0,H,H,regular,East Germany,Australia,,H,236
+1974,1974-06-14,Germany,Berlin,Group 1,Germany,Chile,West Germany,Chile,1,0,H,H,regular,Germany,Chile,,H,237
+1974,1974-06-15,Germany,Munich,Group 4,Italy,Haiti,Italy,Haiti,3,1,H,H,regular,Italy,Haiti,,H,238
+1974,1974-06-15,Germany,Stuttgart,Group 4,Poland,Argentina,Poland,Argentina,3,2,H,H,regular,Poland,Argentina,,H,239
+1974,1974-06-15,Germany,Düsseldorf,Group 3,Sweden,Bulgaria,Sweden,Bulgaria,0,0,D,D,regular,,,,D,240
+1974,1974-06-15,Germany,Hanover,Group 3,Uruguay,Netherlands,Uruguay,Netherlands,0,2,A,A,regular,Netherlands,Uruguay,,A,241
+1974,1974-06-18,Germany,Berlin,Group 1,Chile,East Germany,Chile,East Germany,1,1,D,D,regular,,,,D,242
+1974,1974-06-18,Germany,Hamburg,Group 1,Germany,Australia,West Germany,Australia,3,0,H,H,regular,Germany,Australia,,H,243
+1974,1974-06-18,Germany,Frankfurt am Main,Group 2,Scotland,Brazil,Scotland,Brazil,0,0,D,D,regular,,,,D,244
+1974,1974-06-18,Germany,Gelsenkirchen,Group 2,Yugoslavia,Congo DR,Yugoslavia,Zaire,9,0,H,H,regular,Yugoslavia,Congo DR,,H,245
+1974,1974-06-19,Germany,Stuttgart,Group 4,Argentina,Italy,Argentina,Italy,1,1,D,D,regular,,,,D,246
+1974,1974-06-19,Germany,Hanover,Group 3,Bulgaria,Uruguay,Bulgaria,Uruguay,1,1,D,D,regular,,,,D,247
+1974,1974-06-19,Germany,Munich,Group 4,Haiti,Poland,Haiti,Poland,0,7,A,A,regular,Poland,Haiti,,A,248
+1974,1974-06-19,Germany,Dortmund,Group 3,Netherlands,Sweden,Netherlands,Sweden,0,0,D,D,regular,,,,D,249
+1974,1974-06-22,Germany,Berlin,Group 1,Australia,Chile,Australia,Chile,0,0,D,D,regular,,,,D,250
+1974,1974-06-22,Germany,Gelsenkirchen,Group 2,Congo DR,Brazil,Zaire,Brazil,0,3,A,A,regular,Brazil,Congo DR,,A,251
+1974,1974-06-22,Germany,Hamburg,Group 1,Germany,East Germany,West Germany,East Germany,0,1,A,A,regular,East Germany,Germany,,A,252
+1974,1974-06-22,Germany,Frankfurt am Main,Group 2,Scotland,Yugoslavia,Scotland,Yugoslavia,1,1,D,D,regular,,,,D,253
+1974,1974-06-23,Germany,Munich,Group 4,Argentina,Haiti,Argentina,Haiti,4,1,H,H,regular,Argentina,Haiti,,H,254
+1974,1974-06-23,Germany,Dortmund,Group 3,Bulgaria,Netherlands,Bulgaria,Netherlands,1,4,A,A,regular,Netherlands,Bulgaria,,A,255
+1974,1974-06-23,Germany,Stuttgart,Group 4,Poland,Italy,Poland,Italy,2,1,H,H,regular,Poland,Italy,,H,256
+1974,1974-06-23,Germany,Düsseldorf,Group 3,Sweden,Uruguay,Sweden,Uruguay,3,0,H,H,regular,Sweden,Uruguay,,H,257
+1974,1974-06-26,Germany,Hanover,Group A,Brazil,East Germany,Brazil,East Germany,1,0,H,H,regular,Brazil,East Germany,,H,258
+1974,1974-06-26,Germany,Düsseldorf,Group B,Germany,Yugoslavia,West Germany,Yugoslavia,2,0,H,H,regular,Germany,Yugoslavia,,H,259
+1974,1974-06-26,Germany,Gelsenkirchen,Group A,Netherlands,Argentina,Netherlands,Argentina,4,0,H,H,regular,Netherlands,Argentina,,H,260
+1974,1974-06-26,Germany,Stuttgart,Group B,Sweden,Poland,Sweden,Poland,0,1,A,A,regular,Poland,Sweden,,A,261
+1974,1974-06-30,Germany,Hanover,Group A,Argentina,Brazil,Argentina,Brazil,1,2,A,A,regular,Brazil,Argentina,,A,262
+1974,1974-06-30,Germany,Gelsenkirchen,Group A,East Germany,Netherlands,East Germany,Netherlands,0,2,A,A,regular,Netherlands,East Germany,,A,263
+1974,1974-06-30,Germany,Düsseldorf,Group B,Germany,Sweden,West Germany,Sweden,4,2,H,H,regular,Germany,Sweden,,H,264
+1974,1974-06-30,Germany,Frankfurt am Main,Group B,Poland,Yugoslavia,Poland,Yugoslavia,2,1,H,H,regular,Poland,Yugoslavia,,H,265
+1974,1974-07-03,Germany,Gelsenkirchen,Group A,Argentina,East Germany,Argentina,East Germany,1,1,D,D,regular,,,,D,266
+1974,1974-07-03,Germany,Frankfurt am Main,Group B,Germany,Poland,West Germany,Poland,1,0,H,H,regular,Germany,Poland,,H,267
+1974,1974-07-03,Germany,Dortmund,Group A,Netherlands,Brazil,Netherlands,Brazil,2,0,H,H,regular,Netherlands,Brazil,,H,268
+1974,1974-07-03,Germany,Düsseldorf,Group B,Sweden,Yugoslavia,Sweden,Yugoslavia,2,1,H,H,regular,Sweden,Yugoslavia,,H,269
+1974,1974-07-06,Germany,Munich,Third place,Brazil,Poland,Brazil,Poland,0,1,A,A,regular,Poland,Brazil,,A,270
+1974,1974-07-07,Germany,Munich,Final,Germany,Netherlands,West Germany,Netherlands,2,1,H,H,regular,Germany,Netherlands,,H,271
+1978,1978-06-01,Argentina,Buenos Aires,Group 2,Germany,Poland,West Germany,Poland,0,0,D,D,regular,,,,D,272
+1978,1978-06-02,Argentina,Buenos Aires,Group 1,Argentina,Hungary,Argentina,Hungary,2,1,H,H,regular,Argentina,Hungary,,H,273
+1978,1978-06-02,Argentina,Mar del Plata,Group 1,France,Italy,France,Italy,1,2,A,A,regular,Italy,France,,A,274
+1978,1978-06-02,Argentina,Rosario,Group 2,Mexico,Tunisia,Mexico,Tunisia,1,3,A,A,regular,Tunisia,Mexico,,A,275
+1978,1978-06-03,Argentina,Buenos Aires,Group 3,Austria,Spain,Austria,Spain,2,1,H,H,regular,Austria,Spain,,H,276
+1978,1978-06-03,Argentina,Mar del Plata,Group 3,Brazil,Sweden,Brazil,Sweden,1,1,D,D,regular,,,,D,277
+1978,1978-06-03,Argentina,Mendoza,Group 4,IR Iran,Netherlands,Iran,Netherlands,0,3,A,A,regular,Netherlands,IR Iran,,A,278
+1978,1978-06-03,Argentina,Córdoba,Group 4,Peru,Scotland,Peru,Scotland,3,1,H,H,regular,Peru,Scotland,,H,279
+1978,1978-06-06,Argentina,Buenos Aires,Group 1,Argentina,France,Argentina,France,2,1,H,H,regular,Argentina,France,,H,280
+1978,1978-06-06,Argentina,Córdoba,Group 2,Germany,Mexico,West Germany,Mexico,6,0,H,H,regular,Germany,Mexico,,H,281
+1978,1978-06-06,Argentina,Mar del Plata,Group 1,Hungary,Italy,Hungary,Italy,1,3,A,A,regular,Italy,Hungary,,A,282
+1978,1978-06-06,Argentina,Rosario,Group 2,Poland,Tunisia,Poland,Tunisia,1,0,H,H,regular,Poland,Tunisia,,H,283
+1978,1978-06-07,Argentina,Buenos Aires,Group 3,Austria,Sweden,Austria,Sweden,1,0,H,H,regular,Austria,Sweden,,H,284
+1978,1978-06-07,Argentina,Mar del Plata,Group 3,Brazil,Spain,Brazil,Spain,0,0,D,D,regular,,,,D,285
+1978,1978-06-07,Argentina,Córdoba,Group 4,IR Iran,Scotland,Iran,Scotland,1,1,D,D,regular,,,,D,286
+1978,1978-06-07,Argentina,Mendoza,Group 4,Netherlands,Peru,Netherlands,Peru,0,0,D,D,regular,,,,D,287
+1978,1978-06-10,Argentina,Buenos Aires,Group 1,Argentina,Italy,Argentina,Italy,0,1,A,A,regular,Italy,Argentina,,A,288
+1978,1978-06-10,Argentina,Mar del Plata,Group 1,France,Hungary,France,Hungary,3,1,H,H,regular,France,Hungary,,H,289
+1978,1978-06-10,Argentina,Córdoba,Group 2,Germany,Tunisia,West Germany,Tunisia,0,0,D,D,regular,,,,D,290
+1978,1978-06-10,Argentina,Rosario,Group 2,Mexico,Poland,Mexico,Poland,1,3,A,A,regular,Poland,Mexico,,A,291
+1978,1978-06-11,Argentina,Mar del Plata,Group 3,Austria,Brazil,Austria,Brazil,0,1,A,A,regular,Brazil,Austria,,A,292
+1978,1978-06-11,Argentina,Córdoba,Group 4,IR Iran,Peru,Iran,Peru,1,4,A,A,regular,Peru,IR Iran,,A,293
+1978,1978-06-11,Argentina,Mendoza,Group 4,Netherlands,Scotland,Netherlands,Scotland,2,3,A,A,regular,Scotland,Netherlands,,A,294
+1978,1978-06-11,Argentina,Buenos Aires,Group 3,Spain,Sweden,Spain,Sweden,1,0,H,H,regular,Spain,Sweden,,H,295
+1978,1978-06-14,Argentina,Rosario,Group B,Argentina,Poland,Argentina,Poland,2,0,H,H,regular,Argentina,Poland,,H,296
+1978,1978-06-14,Argentina,Córdoba,Group A,Austria,Netherlands,Austria,Netherlands,1,5,A,A,regular,Netherlands,Austria,,A,297
+1978,1978-06-14,Argentina,Mendoza,Group B,Brazil,Peru,Brazil,Peru,3,0,H,H,regular,Brazil,Peru,,H,298
+1978,1978-06-14,Argentina,Buenos Aires,Group A,Germany,Italy,West Germany,Italy,0,0,D,D,regular,,,,D,299
+1978,1978-06-18,Argentina,Rosario,Group B,Argentina,Brazil,Argentina,Brazil,0,0,D,D,regular,,,,D,300
+1978,1978-06-18,Argentina,Buenos Aires,Group A,Austria,Italy,Austria,Italy,0,1,A,A,regular,Italy,Austria,,A,301
+1978,1978-06-18,Argentina,Córdoba,Group A,Germany,Netherlands,West Germany,Netherlands,2,2,D,D,regular,,,,D,302
+1978,1978-06-18,Argentina,Mendoza,Group B,Peru,Poland,Peru,Poland,0,1,A,A,regular,Poland,Peru,,A,303
+1978,1978-06-21,Argentina,Rosario,Group B,Argentina,Peru,Argentina,Peru,6,0,H,H,regular,Argentina,Peru,,H,304
+1978,1978-06-21,Argentina,Córdoba,Group A,Austria,Germany,Austria,West Germany,3,2,H,H,regular,Austria,Germany,,H,305
+1978,1978-06-21,Argentina,Mendoza,Group B,Brazil,Poland,Brazil,Poland,3,1,H,H,regular,Brazil,Poland,,H,306
+1978,1978-06-21,Argentina,Buenos Aires,Group A,Italy,Netherlands,Italy,Netherlands,1,2,A,A,regular,Netherlands,Italy,,A,307
+1978,1978-06-24,Argentina,Buenos Aires,Third place,Brazil,Italy,Brazil,Italy,2,1,H,H,regular,Brazil,Italy,,H,308
+1978,1978-06-25,Argentina,Buenos Aires,Final,Argentina,Netherlands,Argentina,Netherlands,3,1,H,H,extra_time,Argentina,Netherlands,Argentina won in AET,H,309
+1982,1982-06-13,Spain,Barcelona,Group 3,Argentina,Belgium,Argentina,Belgium,0,1,A,A,regular,Belgium,Argentina,,A,310
+1982,1982-06-14,Spain,Seville,Group 6,Brazil,Soviet Union,Brazil,Soviet Union,2,1,H,H,regular,Brazil,Soviet Union,,H,311
+1982,1982-06-14,Spain,Vigo,Group 1,Italy,Poland,Italy,Poland,0,0,D,D,regular,,,,D,312
+1982,1982-06-15,Spain,Elche,Group 3,Hungary,El Salvador,Hungary,El Salvador,10,1,H,H,regular,Hungary,El Salvador,,H,313
+1982,1982-06-15,Spain,La Coruña,Group 1,Peru,Cameroon,Peru,Cameroon,0,0,D,D,regular,,,,D,314
+1982,1982-06-15,Spain,Málaga,Group 6,Scotland,New Zealand,Scotland,New Zealand,5,2,H,H,regular,Scotland,New Zealand,,H,315
+1982,1982-06-16,Spain,Bilbao,Group 4,England,France,England,France,3,1,H,H,regular,England,France,,H,316
+1982,1982-06-16,Spain,Gijón,Group 2,Germany,Algeria,West Germany,Algeria,1,2,A,A,regular,Algeria,Germany,,A,317
+1982,1982-06-16,Spain,Valencia,Group 5,Spain,Honduras,Spain,Honduras,1,1,D,D,regular,,,,D,318
+1982,1982-06-17,Spain,Oviedo,Group 2,Chile,Austria,Chile,Austria,0,1,A,A,regular,Austria,Chile,,A,319
+1982,1982-06-17,Spain,Valladolid,Group 4,Czechoslovakia,Kuwait,Czechoslovakia,Kuwait,1,1,D,D,regular,,,,D,320
+1982,1982-06-17,Spain,Zaragoza,Group 5,Yugoslavia,Northern Ireland,Yugoslavia,Northern Ireland,0,0,D,D,regular,,,,D,321
+1982,1982-06-18,Spain,Alicante,Group 3,Argentina,Hungary,Argentina,Hungary,4,1,H,H,regular,Argentina,Hungary,,H,322
+1982,1982-06-18,Spain,Seville,Group 6,Brazil,Scotland,Brazil,Scotland,4,1,H,H,regular,Brazil,Scotland,,H,323
+1982,1982-06-18,Spain,Vigo,Group 1,Italy,Peru,Italy,Peru,1,1,D,D,regular,,,,D,324
+1982,1982-06-19,Spain,Elche,Group 3,Belgium,El Salvador,Belgium,El Salvador,1,0,H,H,regular,Belgium,El Salvador,,H,325
+1982,1982-06-19,Spain,La Coruña,Group 1,Poland,Cameroon,Poland,Cameroon,0,0,D,D,regular,,,,D,326
+1982,1982-06-19,Spain,Málaga,Group 6,Soviet Union,New Zealand,Soviet Union,New Zealand,3,0,H,H,regular,Soviet Union,New Zealand,,H,327
+1982,1982-06-20,Spain,Bilbao,Group 4,England,Czechoslovakia,England,Czechoslovakia,2,0,H,H,regular,England,Czechoslovakia,,H,328
+1982,1982-06-20,Spain,Gijón,Group 2,Germany,Chile,West Germany,Chile,4,1,H,H,regular,Germany,Chile,,H,329
+1982,1982-06-20,Spain,Valencia,Group 5,Spain,Yugoslavia,Spain,Yugoslavia,2,1,H,H,regular,Spain,Yugoslavia,,H,330
+1982,1982-06-21,Spain,Oviedo,Group 2,Algeria,Austria,Algeria,Austria,0,2,A,A,regular,Austria,Algeria,,A,331
+1982,1982-06-21,Spain,Valladolid,Group 4,France,Kuwait,France,Kuwait,4,1,H,H,regular,France,Kuwait,,H,332
+1982,1982-06-21,Spain,Zaragoza,Group 5,Honduras,Northern Ireland,Honduras,Northern Ireland,1,1,D,D,regular,,,,D,333
+1982,1982-06-22,Spain,Elche,Group 3,Belgium,Hungary,Belgium,Hungary,1,1,D,D,regular,,,,D,334
+1982,1982-06-22,Spain,La Coruña,Group 1,Poland,Peru,Poland,Peru,5,1,H,H,regular,Poland,Peru,,H,335
+1982,1982-06-22,Spain,Málaga,Group 6,Soviet Union,Scotland,Soviet Union,Scotland,2,2,D,D,regular,,,,D,336
+1982,1982-06-23,Spain,Alicante,Group 3,Argentina,El Salvador,Argentina,El Salvador,2,0,H,H,regular,Argentina,El Salvador,,H,337
+1982,1982-06-23,Spain,Seville,Group 6,Brazil,New Zealand,Brazil,New Zealand,4,0,H,H,regular,Brazil,New Zealand,,H,338
+1982,1982-06-23,Spain,Vigo,Group 1,Italy,Cameroon,Italy,Cameroon,1,1,D,D,regular,,,,D,339
+1982,1982-06-24,Spain,Oviedo,Group 2,Algeria,Chile,Algeria,Chile,3,2,H,H,regular,Algeria,Chile,,H,340
+1982,1982-06-24,Spain,Valladolid,Group 4,France,Czechoslovakia,France,Czechoslovakia,1,1,D,D,regular,,,,D,341
+1982,1982-06-24,Spain,Zaragoza,Group 5,Honduras,Yugoslavia,Honduras,Yugoslavia,0,1,A,A,regular,Yugoslavia,Honduras,,A,342
+1982,1982-06-25,Spain,Bilbao,Group 4,England,Kuwait,England,Kuwait,1,0,H,H,regular,England,Kuwait,,H,343
+1982,1982-06-25,Spain,Gijón,Group 2,Germany,Austria,West Germany,Austria,1,0,H,H,regular,Germany,Austria,,H,344
+1982,1982-06-25,Spain,Valencia,Group 5,Spain,Northern Ireland,Spain,Northern Ireland,0,1,A,A,regular,Northern Ireland,Spain,,A,345
+1982,1982-06-28,Spain,Madrid,Group D,Austria,France,Austria,France,0,1,A,A,regular,France,Austria,,A,346
+1982,1982-06-28,Spain,Barcelona,Group A,Poland,Belgium,Poland,Belgium,3,0,H,H,regular,Poland,Belgium,,H,347
+1982,1982-06-29,Spain,Madrid,Group B,Germany,England,West Germany,England,0,0,D,D,regular,,,,D,348
+1982,1982-06-29,Spain,Barcelona,Group C,Italy,Argentina,Italy,Argentina,2,1,H,H,regular,Italy,Argentina,,H,349
+1982,1982-07-01,Spain,Madrid,Group D,Austria,Northern Ireland,Austria,Northern Ireland,2,2,D,D,regular,,,,D,350
+1982,1982-07-01,Spain,Barcelona,Group A,Belgium,Soviet Union,Belgium,Soviet Union,0,1,A,A,regular,Soviet Union,Belgium,,A,351
+1982,1982-07-02,Spain,Barcelona,Group C,Argentina,Brazil,Argentina,Brazil,1,3,A,A,regular,Brazil,Argentina,,A,352
+1982,1982-07-02,Spain,Madrid,Group B,Spain,Germany,Spain,West Germany,1,2,A,A,regular,Germany,Spain,,A,353
+1982,1982-07-04,Spain,Madrid,Group D,France,Northern Ireland,France,Northern Ireland,4,1,H,H,regular,France,Northern Ireland,,H,354
+1982,1982-07-04,Spain,Barcelona,Group A,Poland,Soviet Union,Poland,Soviet Union,0,0,D,D,regular,,,,D,355
+1982,1982-07-05,Spain,Barcelona,Group C,Italy,Brazil,Italy,Brazil,3,2,H,H,regular,Italy,Brazil,,H,356
+1982,1982-07-05,Spain,Madrid,Group B,Spain,England,Spain,England,0,0,D,D,regular,,,,D,357
+1982,1982-07-08,Spain,Seville,Semifinals,Germany,France,West Germany,France,3,3,D,H,penalties,Germany,France,West Germany won in penalties (5 - 4),H,358
+1982,1982-07-08,Spain,Barcelona,Semifinals,Poland,Italy,Poland,Italy,0,2,A,A,regular,Italy,Poland,,A,359
+1982,1982-07-10,Spain,Alicante,Third place,Poland,France,Poland,France,3,2,H,H,regular,Poland,France,,H,360
+1982,1982-07-11,Spain,Madrid,Final,Italy,Germany,Italy,West Germany,3,1,H,H,regular,Italy,Germany,,H,361
+1986,1986-05-31,Mexico,Mexico City,Group A,Bulgaria,Italy,Bulgaria,Italy,1,1,D,D,regular,,,,D,362
+1986,1986-06-01,Mexico,León,Group C,Canada,France,Canada,France,0,1,A,A,regular,France,Canada,,A,363
+1986,1986-06-01,Mexico,Guadalajara,Group D,Spain,Brazil,Spain,Brazil,0,1,A,A,regular,Brazil,Spain,,A,364
+1986,1986-06-02,Mexico,Mexico City,Group A,Argentina,Korea Republic,Argentina,South Korea,3,1,H,H,regular,Argentina,Korea Republic,,H,365
+1986,1986-06-02,Mexico,Monterrey,Group F,Morocco,Poland,Morocco,Poland,0,0,D,D,regular,,,,D,366
+1986,1986-06-02,Mexico,Irapuato,Group C,Soviet Union,Hungary,Soviet Union,Hungary,6,0,H,H,regular,Soviet Union,Hungary,,H,367
+1986,1986-06-03,Mexico,Guadalajara,Group D,Algeria,Northern Ireland,Algeria,Northern Ireland,1,1,D,D,regular,,,,D,368
+1986,1986-06-03,Mexico,Mexico City,Group B,Mexico,Belgium,Mexico,Belgium,2,1,H,H,regular,Mexico,Belgium,,H,369
+1986,1986-06-03,Mexico,Monterrey,Group F,Portugal,England,Portugal,England,1,0,H,H,regular,Portugal,England,,H,370
+1986,1986-06-04,Mexico,Toluca,Group B,Paraguay,Iraq,Paraguay,Iraq,1,0,H,H,regular,Paraguay,Iraq,,H,371
+1986,1986-06-04,Mexico,Nezahualcóyotl,Group E,Scotland,Denmark,Scotland,Denmark,0,1,A,A,regular,Denmark,Scotland,,A,372
+1986,1986-06-04,Mexico,Querétaro,Group E,Uruguay,Germany,Uruguay,West Germany,1,1,D,D,regular,,,,D,373
+1986,1986-06-05,Mexico,León,Group C,France,Soviet Union,France,Soviet Union,1,1,D,D,regular,,,,D,374
+1986,1986-06-05,Mexico,Puebla,Group A,Italy,Argentina,Italy,Argentina,1,1,D,D,regular,,,,D,375
+1986,1986-06-05,Mexico,Mexico City,Group A,Korea Republic,Bulgaria,South Korea,Bulgaria,1,1,D,D,regular,,,,D,376
+1986,1986-06-06,Mexico,Guadalajara,Group D,Brazil,Algeria,Brazil,Algeria,1,0,H,H,regular,Brazil,Algeria,,H,377
+1986,1986-06-06,Mexico,Monterrey,Group F,England,Morocco,England,Morocco,0,0,D,D,regular,,,,D,378
+1986,1986-06-06,Mexico,Irapuato,Group C,Hungary,Canada,Hungary,Canada,2,0,H,H,regular,Hungary,Canada,,H,379
+1986,1986-06-07,Mexico,Mexico City,Group B,Mexico,Paraguay,Mexico,Paraguay,1,1,D,D,regular,,,,D,380
+1986,1986-06-07,Mexico,Guadalajara,Group D,Northern Ireland,Spain,Northern Ireland,Spain,1,2,A,A,regular,Spain,Northern Ireland,,A,381
+1986,1986-06-07,Mexico,Monterrey,Group F,Poland,Portugal,Poland,Portugal,1,0,H,H,regular,Poland,Portugal,,H,382
+1986,1986-06-08,Mexico,Nezahualcóyotl,Group E,Denmark,Uruguay,Denmark,Uruguay,6,1,H,H,regular,Denmark,Uruguay,,H,383
+1986,1986-06-08,Mexico,Querétaro,Group E,Germany,Scotland,West Germany,Scotland,2,1,H,H,regular,Germany,Scotland,,H,384
+1986,1986-06-08,Mexico,Toluca,Group B,Iraq,Belgium,Iraq,Belgium,1,2,A,A,regular,Belgium,Iraq,,A,385
+1986,1986-06-09,Mexico,León,Group C,Hungary,France,Hungary,France,0,3,A,A,regular,France,Hungary,,A,386
+1986,1986-06-09,Mexico,Irapuato,Group C,Soviet Union,Canada,Soviet Union,Canada,2,0,H,H,regular,Soviet Union,Canada,,H,387
+1986,1986-06-10,Mexico,Mexico City,Group A,Argentina,Bulgaria,Argentina,Bulgaria,2,0,H,H,regular,Argentina,Bulgaria,,H,388
+1986,1986-06-10,Mexico,Puebla,Group A,Korea Republic,Italy,South Korea,Italy,2,3,A,A,regular,Italy,Korea Republic,,A,389
+1986,1986-06-11,Mexico,Monterrey,Group F,England,Poland,England,Poland,3,0,H,H,regular,England,Poland,,H,390
+1986,1986-06-11,Mexico,Mexico City,Group B,Mexico,Iraq,Mexico,Iraq,1,0,H,H,regular,Mexico,Iraq,,H,391
+1986,1986-06-11,Mexico,Toluca,Group B,Paraguay,Belgium,Paraguay,Belgium,2,2,D,D,regular,,,,D,392
+1986,1986-06-11,Mexico,Guadalajara,Group F,Portugal,Morocco,Portugal,Morocco,1,3,A,A,regular,Morocco,Portugal,,A,393
+1986,1986-06-12,Mexico,Monterrey,Group D,Algeria,Spain,Algeria,Spain,0,3,A,A,regular,Spain,Algeria,,A,394
+1986,1986-06-12,Mexico,Guadalajara,Group D,Northern Ireland,Brazil,Northern Ireland,Brazil,0,3,A,A,regular,Brazil,Northern Ireland,,A,395
+1986,1986-06-13,Mexico,Querétaro,Group E,Denmark,Germany,Denmark,West Germany,2,0,H,H,regular,Denmark,Germany,,H,396
+1986,1986-06-13,Mexico,Nezahualcóyotl,Group E,Scotland,Uruguay,Scotland,Uruguay,0,0,D,D,regular,,,,D,397
+1986,1986-06-15,Mexico,Mexico City,Round of 16,Mexico,Bulgaria,Mexico,Bulgaria,2,0,H,H,regular,Mexico,Bulgaria,,H,398
+1986,1986-06-15,Mexico,León,Round of 16,Soviet Union,Belgium,Soviet Union,Belgium,3,4,A,A,extra_time,Belgium,Soviet Union,Belgium won in AET,A,399
+1986,1986-06-16,Mexico,Puebla,Round of 16,Argentina,Uruguay,Argentina,Uruguay,1,0,H,H,regular,Argentina,Uruguay,,H,400
+1986,1986-06-16,Mexico,Guadalajara,Round of 16,Brazil,Poland,Brazil,Poland,4,0,H,H,regular,Brazil,Poland,,H,401
+1986,1986-06-17,Mexico,Mexico City,Round of 16,Italy,France,Italy,France,0,2,A,A,regular,France,Italy,,A,402
+1986,1986-06-17,Mexico,Monterrey,Round of 16,Morocco,Germany,Morocco,West Germany,0,1,A,A,regular,Germany,Morocco,,A,403
+1986,1986-06-18,Mexico,Querétaro,Round of 16,Denmark,Spain,Denmark,Spain,1,5,A,A,regular,Spain,Denmark,,A,404
+1986,1986-06-18,Mexico,Mexico City,Round of 16,England,Paraguay,England,Paraguay,3,0,H,H,regular,England,Paraguay,,H,405
+1986,1986-06-21,Mexico,Guadalajara,Quarterfinals,Brazil,France,Brazil,France,1,1,D,A,penalties,France,Brazil,France won in penalties (4 - 3),A,406
+1986,1986-06-21,Mexico,Monterrey,Quarterfinals,Mexico,Germany,Mexico,West Germany,0,0,D,A,penalties,Germany,Mexico,West Germany won in penalties (4 - 1),A,407
+1986,1986-06-22,Mexico,Mexico City,Quarterfinals,Argentina,England,Argentina,England,2,1,H,H,regular,Argentina,England,,H,408
+1986,1986-06-22,Mexico,Puebla,Quarterfinals,Spain,Belgium,Spain,Belgium,1,1,D,A,penalties,Belgium,Spain,Belgium won in penalties (5 - 4),A,409
+1986,1986-06-25,Mexico,Mexico City,Semifinals,Argentina,Belgium,Argentina,Belgium,2,0,H,H,regular,Argentina,Belgium,,H,410
+1986,1986-06-25,Mexico,Guadalajara,Semifinals,France,Germany,France,West Germany,0,2,A,A,regular,Germany,France,,A,411
+1986,1986-06-28,Mexico,Puebla,Third place,France,Belgium,France,Belgium,4,2,H,H,extra_time,France,Belgium,France won in AET,H,412
+1986,1986-06-29,Mexico,Mexico City,Final,Argentina,Germany,Argentina,West Germany,3,2,H,H,regular,Argentina,Germany,,H,413
+1990,1990-06-08,Italy,Milan,Group B,Argentina,Cameroon,Argentina,Cameroon,0,1,A,A,regular,Cameroon,Argentina,,A,414
+1990,1990-06-09,Italy,Rome,Group A,Italy,Austria,Italy,Austria,1,0,H,H,regular,Italy,Austria,,H,415
+1990,1990-06-09,Italy,Bari,Group B,Soviet Union,Romania,Soviet Union,Romania,0,2,A,A,regular,Romania,Soviet Union,,A,416
+1990,1990-06-09,Italy,Bologna,Group D,United Arab Emirates,Colombia,United Arab Emirates,Colombia,0,2,A,A,regular,Colombia,United Arab Emirates,,A,417
+1990,1990-06-10,Italy,Turin,Group C,Brazil,Sweden,Brazil,Sweden,2,1,H,H,regular,Brazil,Sweden,,H,418
+1990,1990-06-10,Italy,Milan,Group D,Germany,Yugoslavia,West Germany,Yugoslavia,4,1,H,H,regular,Germany,Yugoslavia,,H,419
+1990,1990-06-10,Italy,Florence,Group A,USA,Czechoslovakia,United States,Czechoslovakia,1,5,A,A,regular,Czechoslovakia,USA,,A,420
+1990,1990-06-11,Italy,Genoa,Group C,Costa Rica,Scotland,Costa Rica,Scotland,1,0,H,H,regular,Costa Rica,Scotland,,H,421
+1990,1990-06-11,Italy,Cagliari,Group F,England,Republic of Ireland,England,Republic of Ireland,1,1,D,D,regular,,,,D,422
+1990,1990-06-12,Italy,Verona,Group E,Belgium,Korea Republic,Belgium,South Korea,2,0,H,H,regular,Belgium,Korea Republic,,H,423
+1990,1990-06-12,Italy,Palermo,Group F,Netherlands,Egypt,Netherlands,Egypt,1,1,D,D,regular,,,,D,424
+1990,1990-06-13,Italy,Naples,Group B,Argentina,Soviet Union,Argentina,Soviet Union,2,0,H,H,regular,Argentina,Soviet Union,,H,425
+1990,1990-06-13,Italy,Udine,Group E,Uruguay,Spain,Uruguay,Spain,0,0,D,D,regular,,,,D,426
+1990,1990-06-14,Italy,Bari,Group B,Cameroon,Romania,Cameroon,Romania,2,1,H,H,regular,Cameroon,Romania,,H,427
+1990,1990-06-14,Italy,Rome,Group A,Italy,USA,Italy,United States,1,0,H,H,regular,Italy,USA,,H,428
+1990,1990-06-14,Italy,Bologna,Group D,Yugoslavia,Colombia,Yugoslavia,Colombia,1,0,H,H,regular,Yugoslavia,Colombia,,H,429
+1990,1990-06-15,Italy,Florence,Group A,Austria,Czechoslovakia,Austria,Czechoslovakia,0,1,A,A,regular,Czechoslovakia,Austria,,A,430
+1990,1990-06-15,Italy,Milan,Group D,Germany,United Arab Emirates,West Germany,United Arab Emirates,5,1,H,H,regular,Germany,United Arab Emirates,,H,431
+1990,1990-06-16,Italy,Turin,Group C,Brazil,Costa Rica,Brazil,Costa Rica,1,0,H,H,regular,Brazil,Costa Rica,,H,432
+1990,1990-06-16,Italy,Cagliari,Group F,England,Netherlands,England,Netherlands,0,0,D,D,regular,,,,D,433
+1990,1990-06-16,Italy,Genoa,Group C,Sweden,Scotland,Sweden,Scotland,1,2,A,A,regular,Scotland,Sweden,,A,434
+1990,1990-06-17,Italy,Verona,Group E,Belgium,Uruguay,Belgium,Uruguay,3,1,H,H,regular,Belgium,Uruguay,,H,435
+1990,1990-06-17,Italy,Palermo,Group F,Republic of Ireland,Egypt,Republic of Ireland,Egypt,0,0,D,D,regular,,,,D,436
+1990,1990-06-17,Italy,Udine,Group E,Korea Republic,Spain,South Korea,Spain,1,3,A,A,regular,Spain,Korea Republic,,A,437
+1990,1990-06-18,Italy,Naples,Group B,Argentina,Romania,Argentina,Romania,1,1,D,D,regular,,,,D,438
+1990,1990-06-18,Italy,Bari,Group B,Cameroon,Soviet Union,Cameroon,Soviet Union,0,4,A,A,regular,Soviet Union,Cameroon,,A,439
+1990,1990-06-19,Italy,Florence,Group A,Austria,USA,Austria,United States,2,1,H,H,regular,Austria,USA,,H,440
+1990,1990-06-19,Italy,Milan,Group D,Germany,Colombia,West Germany,Colombia,1,1,D,D,regular,,,,D,441
+1990,1990-06-19,Italy,Rome,Group A,Italy,Czechoslovakia,Italy,Czechoslovakia,2,0,H,H,regular,Italy,Czechoslovakia,,H,442
+1990,1990-06-19,Italy,Bologna,Group D,Yugoslavia,United Arab Emirates,Yugoslavia,United Arab Emirates,4,1,H,H,regular,Yugoslavia,United Arab Emirates,,H,443
+1990,1990-06-20,Italy,Turin,Group C,Brazil,Scotland,Brazil,Scotland,1,0,H,H,regular,Brazil,Scotland,,H,444
+1990,1990-06-20,Italy,Genoa,Group C,Sweden,Costa Rica,Sweden,Costa Rica,1,2,A,A,regular,Costa Rica,Sweden,,A,445
+1990,1990-06-21,Italy,Verona,Group E,Belgium,Spain,Belgium,Spain,1,2,A,A,regular,Spain,Belgium,,A,446
+1990,1990-06-21,Italy,Cagliari,Group F,England,Egypt,England,Egypt,1,0,H,H,regular,England,Egypt,,H,447
+1990,1990-06-21,Italy,Palermo,Group F,Republic of Ireland,Netherlands,Republic of Ireland,Netherlands,1,1,D,D,regular,,,,D,448
+1990,1990-06-21,Italy,Udine,Group E,Korea Republic,Uruguay,South Korea,Uruguay,0,1,A,A,regular,Uruguay,Korea Republic,,A,449
+1990,1990-06-23,Italy,Naples,Round of 16,Cameroon,Colombia,Cameroon,Colombia,2,1,H,H,extra_time,Cameroon,Colombia,Cameroon won in AET,H,450
+1990,1990-06-23,Italy,Bari,Round of 16,Czechoslovakia,Costa Rica,Czechoslovakia,Costa Rica,4,1,H,H,regular,Czechoslovakia,Costa Rica,,H,451
+1990,1990-06-24,Italy,Turin,Round of 16,Brazil,Argentina,Brazil,Argentina,0,1,A,A,regular,Argentina,Brazil,,A,452
+1990,1990-06-24,Italy,Milan,Round of 16,Germany,Netherlands,West Germany,Netherlands,2,1,H,H,regular,Germany,Netherlands,,H,453
+1990,1990-06-25,Italy,Genoa,Round of 16,Republic of Ireland,Romania,Republic of Ireland,Romania,0,0,D,H,penalties,Republic of Ireland,Romania,Republic of Ireland won in penalties (5 - 4),H,454
+1990,1990-06-25,Italy,Rome,Round of 16,Italy,Uruguay,Italy,Uruguay,2,0,H,H,regular,Italy,Uruguay,,H,455
+1990,1990-06-26,Italy,Bologna,Round of 16,England,Belgium,England,Belgium,1,0,H,H,extra_time,England,Belgium,England won in AET,H,456
+1990,1990-06-26,Italy,Verona,Round of 16,Spain,Yugoslavia,Spain,Yugoslavia,1,2,A,A,extra_time,Yugoslavia,Spain,Yugoslavia won in AET,A,457
+1990,1990-06-30,Italy,Rome,Quarterfinals,Italy,Republic of Ireland,Italy,Republic of Ireland,1,0,H,H,regular,Italy,Republic of Ireland,,H,458
+1990,1990-06-30,Italy,Florence,Quarterfinals,Yugoslavia,Argentina,Yugoslavia,Argentina,0,0,D,A,penalties,Argentina,Yugoslavia,Argentina won in penalties (3 - 2),A,459
+1990,1990-07-01,Italy,Naples,Quarterfinals,Cameroon,England,Cameroon,England,2,3,A,A,extra_time,England,Cameroon,England won in AET,A,460
+1990,1990-07-01,Italy,Milan,Quarterfinals,Germany,Czechoslovakia,West Germany,Czechoslovakia,1,0,H,H,regular,Germany,Czechoslovakia,,H,461
+1990,1990-07-03,Italy,Naples,Semifinals,Italy,Argentina,Italy,Argentina,1,1,D,A,penalties,Argentina,Italy,Argentina won in penalties (4 - 3),A,462
+1990,1990-07-04,Italy,Turin,Semifinals,Germany,England,West Germany,England,1,1,D,H,penalties,Germany,England,West Germany won in penalties (4 - 3),H,463
+1990,1990-07-07,Italy,Bari,Third place,Italy,England,Italy,England,2,1,H,H,regular,Italy,England,,H,464
+1990,1990-07-08,Italy,Rome,Final,Germany,Argentina,West Germany,Argentina,1,0,H,H,regular,Germany,Argentina,,H,465
+1994,1994-06-17,United States,Chicago,Group C,Germany,Bolivia,Germany,Bolivia,1,0,H,H,regular,Germany,Bolivia,,H,466
+1994,1994-06-17,United States,Dallas,Group C,Spain,Korea Republic,Spain,South Korea,2,2,D,D,regular,,,,D,467
+1994,1994-06-18,United States,Pasadena,Group A,Colombia,Romania,Colombia,Romania,1,3,A,A,regular,Romania,Colombia,,A,468
+1994,1994-06-18,United States,East Rutherford,Group E,Italy,Republic of Ireland,Italy,Republic of Ireland,0,1,A,A,regular,Republic of Ireland,Italy,,A,469
+1994,1994-06-18,United States,Pontiac,Group A,USA,Switzerland,United States,Switzerland,1,1,D,D,regular,,,,D,470
+1994,1994-06-19,United States,Orlando,Group F,Belgium,Morocco,Belgium,Morocco,1,0,H,H,regular,Belgium,Morocco,,H,471
+1994,1994-06-19,United States,Pasadena,Group B,Cameroon,Sweden,Cameroon,Sweden,2,2,D,D,regular,,,,D,472
+1994,1994-06-19,United States,Washington,Group E,Norway,Mexico,Norway,Mexico,1,0,H,H,regular,Norway,Mexico,,H,473
+1994,1994-06-20,United States,Palo Alto,Group B,Brazil,Russia,Brazil,Russia,2,0,H,H,regular,Brazil,Russia,,H,474
+1994,1994-06-20,United States,Washington,Group F,Netherlands,Saudi Arabia,Netherlands,Saudi Arabia,2,1,H,H,regular,Netherlands,Saudi Arabia,,H,475
+1994,1994-06-21,United States,Foxborough,Group D,Argentina,Greece,Argentina,Greece,4,0,H,H,regular,Argentina,Greece,,H,476
+1994,1994-06-21,United States,Chicago,Group C,Germany,Spain,Germany,Spain,1,1,D,D,regular,,,,D,477
+1994,1994-06-21,United States,Dallas,Group D,Nigeria,Bulgaria,Nigeria,Bulgaria,3,0,H,H,regular,Nigeria,Bulgaria,,H,478
+1994,1994-06-22,United States,Pontiac,Group A,Romania,Switzerland,Romania,Switzerland,1,4,A,A,regular,Switzerland,Romania,,A,479
+1994,1994-06-22,United States,Pasadena,Group A,USA,Colombia,United States,Colombia,2,1,H,H,regular,USA,Colombia,,H,480
+1994,1994-06-23,United States,East Rutherford,Group E,Italy,Norway,Italy,Norway,1,0,H,H,regular,Italy,Norway,,H,481
+1994,1994-06-23,United States,Foxborough,Group C,Korea Republic,Bolivia,South Korea,Bolivia,0,0,D,D,regular,,,,D,482
+1994,1994-06-24,United States,Palo Alto,Group B,Brazil,Cameroon,Brazil,Cameroon,3,0,H,H,regular,Brazil,Cameroon,,H,483
+1994,1994-06-24,United States,Orlando,Group E,Mexico,Republic of Ireland,Mexico,Republic of Ireland,2,1,H,H,regular,Mexico,Republic of Ireland,,H,484
+1994,1994-06-24,United States,Pontiac,Group B,Sweden,Russia,Sweden,Russia,3,1,H,H,regular,Sweden,Russia,,H,485
+1994,1994-06-25,United States,Foxborough,Group D,Argentina,Nigeria,Argentina,Nigeria,2,1,H,H,regular,Argentina,Nigeria,,H,486
+1994,1994-06-25,United States,Orlando,Group F,Belgium,Netherlands,Belgium,Netherlands,1,0,H,H,regular,Belgium,Netherlands,,H,487
+1994,1994-06-25,United States,East Rutherford,Group F,Saudi Arabia,Morocco,Saudi Arabia,Morocco,2,1,H,H,regular,Saudi Arabia,Morocco,,H,488
+1994,1994-06-26,United States,Chicago,Group D,Bulgaria,Greece,Bulgaria,Greece,4,0,H,H,regular,Bulgaria,Greece,,H,489
+1994,1994-06-26,United States,Palo Alto,Group A,Switzerland,Colombia,Switzerland,Colombia,0,2,A,A,regular,Colombia,Switzerland,,A,490
+1994,1994-06-26,United States,Pasadena,Group A,USA,Romania,United States,Romania,0,1,A,A,regular,Romania,USA,,A,491
+1994,1994-06-27,United States,Chicago,Group C,Bolivia,Spain,Bolivia,Spain,1,3,A,A,regular,Spain,Bolivia,,A,492
+1994,1994-06-27,United States,Dallas,Group C,Germany,Korea Republic,Germany,South Korea,3,2,H,H,regular,Germany,Korea Republic,,H,493
+1994,1994-06-28,United States,Pontiac,Group B,Brazil,Sweden,Brazil,Sweden,1,1,D,D,regular,,,,D,494
+1994,1994-06-28,United States,East Rutherford,Group E,Republic of Ireland,Norway,Republic of Ireland,Norway,0,0,D,D,regular,,,,D,495
+1994,1994-06-28,United States,Washington,Group E,Italy,Mexico,Italy,Mexico,1,1,D,D,regular,,,,D,496
+1994,1994-06-28,United States,Palo Alto,Group B,Russia,Cameroon,Russia,Cameroon,6,1,H,H,regular,Russia,Cameroon,,H,497
+1994,1994-06-29,United States,Washington,Group F,Belgium,Saudi Arabia,Belgium,Saudi Arabia,0,1,A,A,regular,Saudi Arabia,Belgium,,A,498
+1994,1994-06-29,United States,Orlando,Group F,Morocco,Netherlands,Morocco,Netherlands,1,2,A,A,regular,Netherlands,Morocco,,A,499
+1994,1994-06-30,United States,Dallas,Group D,Argentina,Bulgaria,Argentina,Bulgaria,0,2,A,A,regular,Bulgaria,Argentina,,A,500
+1994,1994-06-30,United States,Foxborough,Group D,Greece,Nigeria,Greece,Nigeria,0,2,A,A,regular,Nigeria,Greece,,A,501
+1994,1994-07-02,United States,Chicago,Round of 16,Germany,Belgium,Germany,Belgium,3,2,H,H,regular,Germany,Belgium,,H,502
+1994,1994-07-02,United States,Washington,Round of 16,Spain,Switzerland,Spain,Switzerland,3,0,H,H,regular,Spain,Switzerland,,H,503
+1994,1994-07-03,United States,Pasadena,Round of 16,Romania,Argentina,Romania,Argentina,3,2,H,H,regular,Romania,Argentina,,H,504
+1994,1994-07-03,United States,Dallas,Round of 16,Saudi Arabia,Sweden,Saudi Arabia,Sweden,1,3,A,A,regular,Sweden,Saudi Arabia,,A,505
+1994,1994-07-04,United States,Orlando,Round of 16,Netherlands,Republic of Ireland,Netherlands,Republic of Ireland,2,0,H,H,regular,Netherlands,Republic of Ireland,,H,506
+1994,1994-07-04,United States,Palo Alto,Round of 16,USA,Brazil,United States,Brazil,0,1,A,A,regular,Brazil,USA,,A,507
+1994,1994-07-05,United States,East Rutherford,Round of 16,Mexico,Bulgaria,Mexico,Bulgaria,1,1,D,A,penalties,Bulgaria,Mexico,Bulgaria won in penalties (3 - 1),A,508
+1994,1994-07-05,United States,Foxborough,Round of 16,Nigeria,Italy,Nigeria,Italy,1,2,A,A,extra_time,Italy,Nigeria,Italy won in AET,A,509
+1994,1994-07-09,United States,Foxborough,Quarterfinals,Italy,Spain,Italy,Spain,2,1,H,H,regular,Italy,Spain,,H,510
+1994,1994-07-09,United States,Dallas,Quarterfinals,Netherlands,Brazil,Netherlands,Brazil,2,3,A,A,regular,Brazil,Netherlands,,A,511
+1994,1994-07-10,United States,East Rutherford,Quarterfinals,Bulgaria,Germany,Bulgaria,Germany,2,1,H,H,regular,Bulgaria,Germany,,H,512
+1994,1994-07-10,United States,Palo Alto,Quarterfinals,Romania,Sweden,Romania,Sweden,2,2,D,A,penalties,Sweden,Romania,Sweden won in penalties (5 - 4),A,513
+1994,1994-07-13,United States,East Rutherford,Semifinals,Bulgaria,Italy,Bulgaria,Italy,1,2,A,A,regular,Italy,Bulgaria,,A,514
+1994,1994-07-13,United States,Pasadena,Semifinals,Sweden,Brazil,Sweden,Brazil,0,1,A,A,regular,Brazil,Sweden,,A,515
+1994,1994-07-16,United States,Pasadena,Third place,Sweden,Bulgaria,Sweden,Bulgaria,4,0,H,H,regular,Sweden,Bulgaria,,H,516
+1994,1994-07-17,United States,Pasadena,Final,Brazil,Italy,Brazil,Italy,0,0,D,H,penalties,Brazil,Italy,Brazil won in penalties (3 - 2),H,517
+1998,1998-06-10,France,Saint-Denis,Group A,Brazil,Scotland,Brazil,Scotland,2,1,H,H,regular,Brazil,Scotland,,H,518
+1998,1998-06-10,France,Montpellier,Group A,Morocco,Norway,Morocco,Norway,2,2,D,D,regular,,,,D,519
+1998,1998-06-11,France,Toulouse,Group B,Cameroon,Austria,Cameroon,Austria,1,1,D,D,regular,,,,D,520
+1998,1998-06-11,France,Bordeaux,Group B,Italy,Chile,Italy,Chile,2,2,D,D,regular,,,,D,521
+1998,1998-06-12,France,Marseille,Group C,France,South Africa,France,South Africa,3,0,H,H,regular,France,South Africa,,H,522
+1998,1998-06-12,France,Montpellier,Group D,Paraguay,Bulgaria,Paraguay,Bulgaria,0,0,D,D,regular,,,,D,523
+1998,1998-06-12,France,Lens,Group C,Saudi Arabia,Denmark,Saudi Arabia,Denmark,0,1,A,A,regular,Denmark,Saudi Arabia,,A,524
+1998,1998-06-13,France,Lyon,Group E,Korea Republic,Mexico,South Korea,Mexico,1,3,A,A,regular,Mexico,Korea Republic,,A,525
+1998,1998-06-13,France,Saint-Denis,Group E,Netherlands,Belgium,Netherlands,Belgium,0,0,D,D,regular,,,,D,526
+1998,1998-06-13,France,Nantes,Group D,Spain,Nigeria,Spain,Nigeria,2,3,A,A,regular,Nigeria,Spain,,A,527
+1998,1998-06-14,France,Toulouse,Group H,Argentina,Japan,Argentina,Japan,1,0,H,H,regular,Argentina,Japan,,H,528
+1998,1998-06-14,France,Lens,Group H,Jamaica,Croatia,Jamaica,Croatia,1,3,A,A,regular,Croatia,Jamaica,,A,529
+1998,1998-06-14,France,Saint-Étienne,Group F,FR Yugoslavia,IR Iran,FR Yugoslavia,Iran,1,0,H,H,regular,FR Yugoslavia,IR Iran,,H,530
+1998,1998-06-15,France,Marseille,Group G,England,Tunisia,England,Tunisia,2,0,H,H,regular,England,Tunisia,,H,531
+1998,1998-06-15,France,Paris,Group F,Germany,USA,Germany,United States,2,0,H,H,regular,Germany,USA,,H,532
+1998,1998-06-15,France,Lyon,Group G,Romania,Colombia,Romania,Colombia,1,0,H,H,regular,Romania,Colombia,,H,533
+1998,1998-06-16,France,Nantes,Group A,Brazil,Morocco,Brazil,Morocco,3,0,H,H,regular,Brazil,Morocco,,H,534
+1998,1998-06-16,France,Bordeaux,Group A,Scotland,Norway,Scotland,Norway,1,1,D,D,regular,,,,D,535
+1998,1998-06-17,France,Saint-Étienne,Group B,Chile,Austria,Chile,Austria,1,1,D,D,regular,,,,D,536
+1998,1998-06-17,France,Montpellier,Group B,Italy,Cameroon,Italy,Cameroon,3,0,H,H,regular,Italy,Cameroon,,H,537
+1998,1998-06-18,France,Saint-Denis,Group C,France,Saudi Arabia,France,Saudi Arabia,4,0,H,H,regular,France,Saudi Arabia,,H,538
+1998,1998-06-18,France,Toulouse,Group C,South Africa,Denmark,South Africa,Denmark,1,1,D,D,regular,,,,D,539
+1998,1998-06-19,France,Paris,Group D,Nigeria,Bulgaria,Nigeria,Bulgaria,1,0,H,H,regular,Nigeria,Bulgaria,,H,540
+1998,1998-06-19,France,Saint-Étienne,Group D,Spain,Paraguay,Spain,Paraguay,0,0,D,D,regular,,,,D,541
+1998,1998-06-20,France,Bordeaux,Group E,Belgium,Mexico,Belgium,Mexico,2,2,D,D,regular,,,,D,542
+1998,1998-06-20,France,Nantes,Group H,Japan,Croatia,Japan,Croatia,0,1,A,A,regular,Croatia,Japan,,A,543
+1998,1998-06-20,France,Marseille,Group E,Netherlands,Korea Republic,Netherlands,South Korea,5,0,H,H,regular,Netherlands,Korea Republic,,H,544
+1998,1998-06-21,France,Paris,Group H,Argentina,Jamaica,Argentina,Jamaica,5,0,H,H,regular,Argentina,Jamaica,,H,545
+1998,1998-06-21,France,Lens,Group F,Germany,FR Yugoslavia,Germany,FR Yugoslavia,2,2,D,D,regular,,,,D,546
+1998,1998-06-21,France,Lyon,Group F,USA,IR Iran,United States,Iran,1,2,A,A,regular,IR Iran,USA,,A,547
+1998,1998-06-22,France,Montpellier,Group G,Colombia,Tunisia,Colombia,Tunisia,1,0,H,H,regular,Colombia,Tunisia,,H,548
+1998,1998-06-22,France,Toulouse,Group G,Romania,England,Romania,England,2,1,H,H,regular,Romania,England,,H,549
+1998,1998-06-23,France,Marseille,Group A,Brazil,Norway,Brazil,Norway,1,2,A,A,regular,Norway,Brazil,,A,550
+1998,1998-06-23,France,Nantes,Group B,Chile,Cameroon,Chile,Cameroon,1,1,D,D,regular,,,,D,551
+1998,1998-06-23,France,Saint-Denis,Group B,Italy,Austria,Italy,Austria,2,1,H,H,regular,Italy,Austria,,H,552
+1998,1998-06-23,France,Saint-Étienne,Group A,Scotland,Morocco,Scotland,Morocco,0,3,A,A,regular,Morocco,Scotland,,A,553
+1998,1998-06-24,France,Lyon,Group C,France,Denmark,France,Denmark,2,1,H,H,regular,France,Denmark,,H,554
+1998,1998-06-24,France,Toulouse,Group D,Nigeria,Paraguay,Nigeria,Paraguay,1,3,A,A,regular,Paraguay,Nigeria,,A,555
+1998,1998-06-24,France,Bordeaux,Group C,South Africa,Saudi Arabia,South Africa,Saudi Arabia,2,2,D,D,regular,,,,D,556
+1998,1998-06-24,France,Lens,Group D,Spain,Bulgaria,Spain,Bulgaria,6,1,H,H,regular,Spain,Bulgaria,,H,557
+1998,1998-06-25,France,Paris,Group E,Belgium,Korea Republic,Belgium,South Korea,1,1,D,D,regular,,,,D,558
+1998,1998-06-25,France,Montpellier,Group F,Germany,IR Iran,Germany,Iran,2,0,H,H,regular,Germany,IR Iran,,H,559
+1998,1998-06-25,France,Saint-Étienne,Group E,Netherlands,Mexico,Netherlands,Mexico,2,2,D,D,regular,,,,D,560
+1998,1998-06-25,France,Nantes,Group F,USA,Serbia,United States,Serbia,0,1,A,A,regular,Serbia,USA,,A,561
+1998,1998-06-26,France,Bordeaux,Group H,Argentina,Croatia,Argentina,Croatia,1,0,H,H,regular,Argentina,Croatia,,H,562
+1998,1998-06-26,France,Lens,Group G,Colombia,England,Colombia,England,0,2,A,A,regular,England,Colombia,,A,563
+1998,1998-06-26,France,Lyon,Group H,Japan,Jamaica,Japan,Jamaica,1,2,A,A,regular,Jamaica,Japan,,A,564
+1998,1998-06-26,France,Saint-Denis,Group G,Romania,Tunisia,Romania,Tunisia,1,1,D,D,regular,,,,D,565
+1998,1998-06-27,France,Paris,Round of 16,Brazil,Chile,Brazil,Chile,4,1,H,H,regular,Brazil,Chile,,H,566
+1998,1998-06-27,France,Marseille,Round of 16,Italy,Norway,Italy,Norway,1,0,H,H,regular,Italy,Norway,,H,567
+1998,1998-06-28,France,Lens,Round of 16,France,Paraguay,France,Paraguay,1,0,H,H,extra_time,France,Paraguay,France won in AET,H,568
+1998,1998-06-28,France,Saint-Denis,Round of 16,Nigeria,Denmark,Nigeria,Denmark,1,4,A,A,regular,Denmark,Nigeria,,A,569
+1998,1998-06-29,France,Montpellier,Round of 16,Germany,Mexico,Germany,Mexico,2,1,H,H,regular,Germany,Mexico,,H,570
+1998,1998-06-29,France,Toulouse,Round of 16,Netherlands,FR Yugoslavia,Netherlands,FR Yugoslavia,2,1,H,H,regular,Netherlands,FR Yugoslavia,,H,571
+1998,1998-06-30,France,Saint-Étienne,Round of 16,Argentina,England,Argentina,England,2,2,D,H,penalties,Argentina,England,Argentina won in penalties (4 - 3),H,572
+1998,1998-06-30,France,Bordeaux,Round of 16,Romania,Croatia,Romania,Croatia,0,1,A,A,regular,Croatia,Romania,,A,573
+1998,1998-07-03,France,Nantes,Quarterfinals,Brazil,Denmark,Brazil,Denmark,3,2,H,H,regular,Brazil,Denmark,,H,574
+1998,1998-07-03,France,Saint-Denis,Quarterfinals,France,Italy,France,Italy,0,0,D,H,penalties,France,Italy,France won in penalties (4 - 3),H,575
+1998,1998-07-04,France,Lyon,Quarterfinals,Germany,Croatia,Germany,Croatia,0,3,A,A,regular,Croatia,Germany,,A,576
+1998,1998-07-04,France,Marseille,Quarterfinals,Netherlands,Argentina,Netherlands,Argentina,2,1,H,H,regular,Netherlands,Argentina,,H,577
+1998,1998-07-07,France,Marseille,Semifinals,Brazil,Netherlands,Brazil,Netherlands,1,1,D,H,penalties,Brazil,Netherlands,Brazil won in penalties (4 - 2),H,578
+1998,1998-07-08,France,Saint-Denis,Semifinals,France,Croatia,France,Croatia,2,1,H,H,regular,France,Croatia,,H,579
+1998,1998-07-11,France,Paris,Third place,Netherlands,Croatia,Netherlands,Croatia,1,2,A,A,regular,Croatia,Netherlands,,A,580
+1998,1998-07-12,France,Saint-Denis,Final,France,Brazil,France,Brazil,3,0,H,H,regular,France,Brazil,,H,581
+2002,2002-05-31,South Korea,Seoul,Group A,France,Senegal,France,Senegal,0,1,A,A,regular,Senegal,France,,A,582
+2002,2002-06-01,Japan,Sapporo,Group E,Germany,Saudi Arabia,Germany,Saudi Arabia,8,0,H,H,regular,Germany,Saudi Arabia,,H,583
+2002,2002-06-01,Japan,Niigata,Group E,Republic of Ireland,Cameroon,Republic of Ireland,Cameroon,1,1,D,D,regular,,,,D,584
+2002,2002-06-01,South Korea,Ulsan,Group A,Uruguay,Denmark,Uruguay,Denmark,1,2,A,A,regular,Denmark,Uruguay,,A,585
+2002,2002-06-02,Japan,Kashima,Group F,Argentina,Nigeria,Argentina,Nigeria,1,0,H,H,regular,Argentina,Nigeria,,H,586
+2002,2002-06-02,Japan,Saitama,Group F,England,Sweden,England,Sweden,1,1,D,D,regular,,,,D,587
+2002,2002-06-02,South Korea,Busan,Group B,Paraguay,South Africa,Paraguay,South Africa,2,2,D,D,regular,,,,D,588
+2002,2002-06-02,South Korea,Gwangju,Group B,Spain,Slovenia,Spain,Slovenia,3,1,H,H,regular,Spain,Slovenia,,H,589
+2002,2002-06-03,South Korea,Ulsan,Group C,Brazil,Türkiye,Brazil,Turkey,2,1,H,H,regular,Brazil,Türkiye,,H,590
+2002,2002-06-03,Japan,Niigata,Group G,Croatia,Mexico,Croatia,Mexico,0,1,A,A,regular,Mexico,Croatia,,A,591
+2002,2002-06-03,Japan,Sapporo,Group G,Italy,Ecuador,Italy,Ecuador,2,0,H,H,regular,Italy,Ecuador,,H,592
+2002,2002-06-04,South Korea,Gwangju,Group C,China PR,Costa Rica,China PR,Costa Rica,0,2,A,A,regular,Costa Rica,China PR,,A,593
+2002,2002-06-04,Japan,Saitama,Group H,Japan,Belgium,Japan,Belgium,2,2,D,D,regular,,,,D,594
+2002,2002-06-04,South Korea,Busan,Group D,Korea Republic,Poland,South Korea,Poland,2,0,H,H,regular,Korea Republic,Poland,,H,595
+2002,2002-06-05,Japan,Kashima,Group E,Germany,Republic of Ireland,Germany,Republic of Ireland,1,1,D,D,regular,,,,D,596
+2002,2002-06-05,Japan,Kobe,Group H,Russia,Tunisia,Russia,Tunisia,2,0,H,H,regular,Russia,Tunisia,,H,597
+2002,2002-06-05,South Korea,Suwon,Group D,USA,Portugal,United States,Portugal,3,2,H,H,regular,USA,Portugal,,H,598
+2002,2002-06-06,Japan,Saitama,Group E,Cameroon,Saudi Arabia,Cameroon,Saudi Arabia,1,0,H,H,regular,Cameroon,Saudi Arabia,,H,599
+2002,2002-06-06,South Korea,Daegu,Group A,Denmark,Senegal,Denmark,Senegal,1,1,D,D,regular,,,,D,600
+2002,2002-06-06,South Korea,Busan,Group A,France,Uruguay,France,Uruguay,0,0,D,D,regular,,,,D,601
+2002,2002-06-07,Japan,Sapporo,Group F,Argentina,England,Argentina,England,0,1,A,A,regular,England,Argentina,,A,602
+2002,2002-06-07,South Korea,Jeonju,Group B,Spain,Paraguay,Spain,Paraguay,3,1,H,H,regular,Spain,Paraguay,,H,603
+2002,2002-06-07,Japan,Kobe,Group F,Sweden,Nigeria,Sweden,Nigeria,2,1,H,H,regular,Sweden,Nigeria,,H,604
+2002,2002-06-08,South Korea,Seogwipo,Group C,Brazil,China PR,Brazil,China PR,4,0,H,H,regular,Brazil,China PR,,H,605
+2002,2002-06-08,Japan,Kashima,Group G,Italy,Croatia,Italy,Croatia,1,2,A,A,regular,Croatia,Italy,,A,606
+2002,2002-06-08,South Korea,Daegu,Group B,South Africa,Slovenia,South Africa,Slovenia,1,0,H,H,regular,South Africa,Slovenia,,H,607
+2002,2002-06-09,South Korea,Incheon,Group C,Costa Rica,Türkiye,Costa Rica,Turkey,1,1,D,D,regular,,,,D,608
+2002,2002-06-09,Japan,Yokohama,Group H,Japan,Russia,Japan,Russia,1,0,H,H,regular,Japan,Russia,,H,609
+2002,2002-06-09,Japan,Rifu,Group G,Mexico,Ecuador,Mexico,Ecuador,2,1,H,H,regular,Mexico,Ecuador,,H,610
+2002,2002-06-10,South Korea,Daegu,Group D,Korea Republic,USA,South Korea,United States,1,1,D,D,regular,,,,D,611
+2002,2002-06-10,South Korea,Jeonju,Group D,Portugal,Poland,Portugal,Poland,4,0,H,H,regular,Portugal,Poland,,H,612
+2002,2002-06-10,Japan,Ōita,Group H,Tunisia,Belgium,Tunisia,Belgium,1,1,D,D,regular,,,,D,613
+2002,2002-06-11,Japan,Fukuroi,Group E,Cameroon,Germany,Cameroon,Germany,0,2,A,A,regular,Germany,Cameroon,,A,614
+2002,2002-06-11,South Korea,Incheon,Group A,Denmark,France,Denmark,France,2,0,H,H,regular,Denmark,France,,H,615
+2002,2002-06-11,Japan,Yokohama,Group E,Saudi Arabia,Republic of Ireland,Saudi Arabia,Republic of Ireland,0,3,A,A,regular,Republic of Ireland,Saudi Arabia,,A,616
+2002,2002-06-11,South Korea,Suwon,Group A,Senegal,Uruguay,Senegal,Uruguay,3,3,D,D,regular,,,,D,617
+2002,2002-06-12,Japan,Osaka,Group F,Nigeria,England,Nigeria,England,0,0,D,D,regular,,,,D,618
+2002,2002-06-12,South Korea,Seogwipo,Group B,Slovenia,Paraguay,Slovenia,Paraguay,1,3,A,A,regular,Paraguay,Slovenia,,A,619
+2002,2002-06-12,South Korea,Daejeon,Group B,South Africa,Spain,South Africa,Spain,2,3,A,A,regular,Spain,South Africa,,A,620
+2002,2002-06-12,Japan,Rifu,Group F,Sweden,Argentina,Sweden,Argentina,1,1,D,D,regular,,,,D,621
+2002,2002-06-13,South Korea,Suwon,Group C,Costa Rica,Brazil,Costa Rica,Brazil,2,5,A,A,regular,Brazil,Costa Rica,,A,622
+2002,2002-06-13,Japan,Yokohama,Group G,Ecuador,Croatia,Ecuador,Croatia,1,0,H,H,regular,Ecuador,Croatia,,H,623
+2002,2002-06-13,Japan,Ōita,Group G,Mexico,Italy,Mexico,Italy,1,1,D,D,regular,,,,D,624
+2002,2002-06-13,South Korea,Seoul,Group C,Türkiye,China PR,Turkey,China PR,3,0,H,H,regular,Türkiye,China PR,,H,625
+2002,2002-06-14,Japan,Fukuroi,Group H,Belgium,Russia,Belgium,Russia,3,2,H,H,regular,Belgium,Russia,,H,626
+2002,2002-06-14,Japan,Osaka,Group H,Japan,Tunisia,Japan,Tunisia,2,0,H,H,regular,Japan,Tunisia,,H,627
+2002,2002-06-14,South Korea,Incheon,Group D,Korea Republic,Portugal,South Korea,Portugal,1,0,H,H,regular,Korea Republic,Portugal,,H,628
+2002,2002-06-14,South Korea,Daejeon,Group D,Poland,USA,Poland,United States,3,1,H,H,regular,Poland,USA,,H,629
+2002,2002-06-15,Japan,Niigata,Round of 16,Denmark,England,Denmark,England,0,3,A,A,regular,England,Denmark,,A,630
+2002,2002-06-15,South Korea,Seogwipo,Round of 16,Germany,Paraguay,Germany,Paraguay,1,0,H,H,regular,Germany,Paraguay,,H,631
+2002,2002-06-16,South Korea,Suwon,Round of 16,Spain,Republic of Ireland,Spain,Republic of Ireland,1,1,D,H,penalties,Spain,Republic of Ireland,Spain won in penalties (3 - 2),H,632
+2002,2002-06-16,Japan,Ōita,Round of 16,Sweden,Senegal,Sweden,Senegal,1,2,A,A,extra_time,Senegal,Sweden,Senegal won in AET,A,633
+2002,2002-06-17,Japan,Kobe,Round of 16,Brazil,Belgium,Brazil,Belgium,2,0,H,H,regular,Brazil,Belgium,,H,634
+2002,2002-06-17,South Korea,Jeonju,Round of 16,Mexico,USA,Mexico,United States,0,2,A,A,regular,USA,Mexico,,A,635
+2002,2002-06-18,Japan,Rifu,Round of 16,Japan,Türkiye,Japan,Turkey,0,1,A,A,regular,Türkiye,Japan,,A,636
+2002,2002-06-18,South Korea,Daejeon,Round of 16,Korea Republic,Italy,South Korea,Italy,2,1,H,H,extra_time,Korea Republic,Italy,South Korea won in AET,H,637
+2002,2002-06-21,Japan,Fukuroi,Quarterfinals,England,Brazil,England,Brazil,1,2,A,A,regular,Brazil,England,,A,638
+2002,2002-06-21,South Korea,Ulsan,Quarterfinals,Germany,USA,Germany,United States,1,0,H,H,regular,Germany,USA,,H,639
+2002,2002-06-22,South Korea,Gwangju,Quarterfinals,Korea Republic,Spain,South Korea,Spain,0,0,D,H,penalties,Korea Republic,Spain,South Korea won in penalties (5 - 3),H,640
+2002,2002-06-22,Japan,Osaka,Quarterfinals,Senegal,Türkiye,Senegal,Turkey,0,1,A,A,extra_time,Türkiye,Senegal,Turkey won in AET,A,641
+2002,2002-06-25,South Korea,Seoul,Semifinals,Korea Republic,Germany,South Korea,Germany,0,1,A,A,regular,Germany,Korea Republic,,A,642
+2002,2002-06-26,Japan,Saitama,Semifinals,Brazil,Türkiye,Brazil,Turkey,1,0,H,H,regular,Brazil,Türkiye,,H,643
+2002,2002-06-29,South Korea,Daegu,Third place,Korea Republic,Türkiye,South Korea,Turkey,2,3,A,A,regular,Türkiye,Korea Republic,,A,644
+2002,2002-06-30,Japan,Yokohama,Final,Germany,Brazil,Germany,Brazil,0,2,A,A,regular,Brazil,Germany,,A,645
+2006,2006-06-09,Germany,Munich,Group A,Germany,Costa Rica,Germany,Costa Rica,4,2,H,H,regular,Germany,Costa Rica,,H,646
+2006,2006-06-09,Germany,Gelsenkirchen,Group A,Poland,Ecuador,Poland,Ecuador,0,2,A,A,regular,Ecuador,Poland,,A,647
+2006,2006-06-10,Germany,Hamburg,Group C,Argentina,Côte d'Ivoire,Argentina,Ivory Coast,2,1,H,H,regular,Argentina,Côte d'Ivoire,,H,648
+2006,2006-06-10,Germany,Frankfurt am Main,Group B,England,Paraguay,England,Paraguay,1,0,H,H,regular,England,Paraguay,,H,649
+2006,2006-06-10,Germany,Dortmund,Group B,Trinidad and Tobago,Sweden,Trinidad and Tobago,Sweden,0,0,D,D,regular,,,,D,650
+2006,2006-06-11,Germany,Cologne,Group D,Angola,Portugal,Angola,Portugal,0,1,A,A,regular,Portugal,Angola,,A,651
+2006,2006-06-11,Germany,Nuremberg,Group D,Mexico,IR Iran,Mexico,Iran,3,1,H,H,regular,Mexico,IR Iran,,H,652
+2006,2006-06-11,Germany,Leipzig,Group C,Serbia,Netherlands,Serbia,Netherlands,0,1,A,A,regular,Netherlands,Serbia,,A,653
+2006,2006-06-12,Germany,Kaiserslautern,Group F,Australia,Japan,Australia,Japan,3,1,H,H,regular,Australia,Japan,,H,654
+2006,2006-06-12,Germany,Hanover,Group E,Italy,Ghana,Italy,Ghana,2,0,H,H,regular,Italy,Ghana,,H,655
+2006,2006-06-12,Germany,Gelsenkirchen,Group E,USA,Czechia,United States,Czech Republic,0,3,A,A,regular,Czechia,USA,,A,656
+2006,2006-06-13,Germany,Berlin,Group F,Brazil,Croatia,Brazil,Croatia,1,0,H,H,regular,Brazil,Croatia,,H,657
+2006,2006-06-13,Germany,Stuttgart,Group G,France,Switzerland,France,Switzerland,0,0,D,D,regular,,,,D,658
+2006,2006-06-13,Germany,Frankfurt am Main,Group G,Korea Republic,Togo,South Korea,Togo,2,1,H,H,regular,Korea Republic,Togo,,H,659
+2006,2006-06-14,Germany,Dortmund,Group A,Germany,Poland,Germany,Poland,1,0,H,H,regular,Germany,Poland,,H,660
+2006,2006-06-14,Germany,Leipzig,Group H,Spain,Ukraine,Spain,Ukraine,4,0,H,H,regular,Spain,Ukraine,,H,661
+2006,2006-06-14,Germany,Munich,Group H,Tunisia,Saudi Arabia,Tunisia,Saudi Arabia,2,2,D,D,regular,,,,D,662
+2006,2006-06-15,Germany,Hamburg,Group A,Ecuador,Costa Rica,Ecuador,Costa Rica,3,0,H,H,regular,Ecuador,Costa Rica,,H,663
+2006,2006-06-15,Germany,Nuremberg,Group B,England,Trinidad and Tobago,England,Trinidad and Tobago,2,0,H,H,regular,England,Trinidad and Tobago,,H,664
+2006,2006-06-15,Germany,Berlin,Group B,Sweden,Paraguay,Sweden,Paraguay,1,0,H,H,regular,Sweden,Paraguay,,H,665
+2006,2006-06-16,Germany,Gelsenkirchen,Group C,Argentina,Serbia,Argentina,Serbia,6,0,H,H,regular,Argentina,Serbia,,H,666
+2006,2006-06-16,Germany,Hanover,Group D,Mexico,Angola,Mexico,Angola,0,0,D,D,regular,,,,D,667
+2006,2006-06-16,Germany,Stuttgart,Group C,Netherlands,Côte d'Ivoire,Netherlands,Ivory Coast,2,1,H,H,regular,Netherlands,Côte d'Ivoire,,H,668
+2006,2006-06-17,Germany,Cologne,Group E,Czechia,Ghana,Czech Republic,Ghana,0,2,A,A,regular,Ghana,Czechia,,A,669
+2006,2006-06-17,Germany,Kaiserslautern,Group E,Italy,USA,Italy,United States,1,1,D,D,regular,,,,D,670
+2006,2006-06-17,Germany,Frankfurt am Main,Group D,Portugal,IR Iran,Portugal,Iran,2,0,H,H,regular,Portugal,IR Iran,,H,671
+2006,2006-06-18,Germany,Munich,Group F,Brazil,Australia,Brazil,Australia,2,0,H,H,regular,Brazil,Australia,,H,672
+2006,2006-06-18,Germany,Leipzig,Group G,France,Korea Republic,France,South Korea,1,1,D,D,regular,,,,D,673
+2006,2006-06-18,Germany,Nuremberg,Group F,Japan,Croatia,Japan,Croatia,0,0,D,D,regular,,,,D,674
+2006,2006-06-19,Germany,Hamburg,Group H,Saudi Arabia,Ukraine,Saudi Arabia,Ukraine,0,4,A,A,regular,Ukraine,Saudi Arabia,,A,675
+2006,2006-06-19,Germany,Stuttgart,Group H,Spain,Tunisia,Spain,Tunisia,3,1,H,H,regular,Spain,Tunisia,,H,676
+2006,2006-06-19,Germany,Dortmund,Group G,Togo,Switzerland,Togo,Switzerland,0,2,A,A,regular,Switzerland,Togo,,A,677
+2006,2006-06-20,Germany,Hanover,Group A,Costa Rica,Poland,Costa Rica,Poland,1,2,A,A,regular,Poland,Costa Rica,,A,678
+2006,2006-06-20,Germany,Berlin,Group A,Germany,Ecuador,Germany,Ecuador,3,0,H,H,regular,Germany,Ecuador,,H,679
+2006,2006-06-20,Germany,Kaiserslautern,Group B,Paraguay,Trinidad and Tobago,Paraguay,Trinidad and Tobago,2,0,H,H,regular,Paraguay,Trinidad and Tobago,,H,680
+2006,2006-06-20,Germany,Cologne,Group B,Sweden,England,Sweden,England,2,2,D,D,regular,,,,D,681
+2006,2006-06-21,Germany,Leipzig,Group D,IR Iran,Angola,Iran,Angola,1,1,D,D,regular,,,,D,682
+2006,2006-06-21,Germany,Munich,Group C,Côte d'Ivoire,Serbia,Ivory Coast,Serbia,3,2,H,H,regular,Côte d'Ivoire,Serbia,,H,683
+2006,2006-06-21,Germany,Frankfurt am Main,Group C,Netherlands,Argentina,Netherlands,Argentina,0,0,D,D,regular,,,,D,684
+2006,2006-06-21,Germany,Gelsenkirchen,Group D,Portugal,Mexico,Portugal,Mexico,2,1,H,H,regular,Portugal,Mexico,,H,685
+2006,2006-06-22,Germany,Stuttgart,Group F,Croatia,Australia,Croatia,Australia,2,2,D,D,regular,,,,D,686
+2006,2006-06-22,Germany,Hamburg,Group E,Czechia,Italy,Czech Republic,Italy,0,2,A,A,regular,Italy,Czechia,,A,687
+2006,2006-06-22,Germany,Nuremberg,Group E,Ghana,USA,Ghana,United States,2,1,H,H,regular,Ghana,USA,,H,688
+2006,2006-06-22,Germany,Dortmund,Group F,Japan,Brazil,Japan,Brazil,1,4,A,A,regular,Brazil,Japan,,A,689
+2006,2006-06-23,Germany,Kaiserslautern,Group H,Saudi Arabia,Spain,Saudi Arabia,Spain,0,1,A,A,regular,Spain,Saudi Arabia,,A,690
+2006,2006-06-23,Germany,Hanover,Group H,Switzerland,Korea Republic,Switzerland,South Korea,2,0,H,H,regular,Switzerland,Korea Republic,,H,691
+2006,2006-06-23,Germany,Cologne,Group G,Togo,France,Togo,France,0,2,A,A,regular,France,Togo,,A,692
+2006,2006-06-23,Germany,Berlin,Group G,Ukraine,Tunisia,Ukraine,Tunisia,1,0,H,H,regular,Ukraine,Tunisia,,H,693
+2006,2006-06-24,Germany,Leipzig,Round of 16,Argentina,Mexico,Argentina,Mexico,2,1,H,H,extra_time,Argentina,Mexico,Argentina won in AET,H,694
+2006,2006-06-24,Germany,Munich,Round of 16,Germany,Sweden,Germany,Sweden,2,0,H,H,regular,Germany,Sweden,,H,695
+2006,2006-06-25,Germany,Stuttgart,Round of 16,England,Ecuador,England,Ecuador,1,0,H,H,regular,England,Ecuador,,H,696
+2006,2006-06-25,Germany,Nuremberg,Round of 16,Portugal,Netherlands,Portugal,Netherlands,1,0,H,H,regular,Portugal,Netherlands,,H,697
+2006,2006-06-26,Germany,Kaiserslautern,Round of 16,Italy,Australia,Italy,Australia,1,0,H,H,regular,Italy,Australia,,H,698
+2006,2006-06-26,Germany,Cologne,Round of 16,Switzerland,Ukraine,Switzerland,Ukraine,0,0,D,A,penalties,Ukraine,Switzerland,Ukraine won in penalties (3- 0),A,699
+2006,2006-06-27,Germany,Dortmund,Round of 16,Brazil,Ghana,Brazil,Ghana,3,0,H,H,regular,Brazil,Ghana,,H,700
+2006,2006-06-27,Germany,Hanover,Round of 16,Spain,France,Spain,France,1,3,A,A,regular,France,Spain,,A,701
+2006,2006-06-30,Germany,Berlin,Quarterfinals,Germany,Argentina,Germany,Argentina,1,1,D,H,penalties,Germany,Argentina,Germany won in penalties (4 - 2),H,702
+2006,2006-06-30,Germany,Hamburg,Quarterfinals,Italy,Ukraine,Italy,Ukraine,3,0,H,H,regular,Italy,Ukraine,,H,703
+2006,2006-07-01,Germany,Frankfurt am Main,Quarterfinals,Brazil,France,Brazil,France,0,1,A,A,regular,France,Brazil,,A,704
+2006,2006-07-01,Germany,Gelsenkirchen,Quarterfinals,England,Portugal,England,Portugal,0,0,D,A,penalties,Portugal,England,Portugal won in penalties (3 - 1),A,705
+2006,2006-07-04,Germany,Dortmund,Semifinals,Germany,Italy,Germany,Italy,0,2,A,A,extra_time,Italy,Germany,Italy won in AET,A,706
+2006,2006-07-05,Germany,Munich,Semifinals,Portugal,France,Portugal,France,0,1,A,A,regular,France,Portugal,,A,707
+2006,2006-07-08,Germany,Stuttgart,Third place,Germany,Portugal,Germany,Portugal,3,1,H,H,regular,Germany,Portugal,,H,708
+2006,2006-07-09,Germany,Berlin,Final,Italy,France,Italy,France,1,1,D,H,penalties,Italy,France,Italy won in penalties (5 - 3),H,709
+2010,2010-06-11,South Africa,Johannesburg,Group A,South Africa,Mexico,South Africa,Mexico,1,1,D,D,regular,,,,D,710
+2010,2010-06-11,South Africa,Cape Town,Group A,Uruguay,France,Uruguay,France,0,0,D,D,regular,,,,D,711
+2010,2010-06-12,South Africa,Johannesburg,Group B,Argentina,Nigeria,Argentina,Nigeria,1,0,H,H,regular,Argentina,Nigeria,,H,712
+2010,2010-06-12,South Africa,Rustenburg,Group C,England,USA,England,United States,1,1,D,D,regular,,,,D,713
+2010,2010-06-12,South Africa,Port Elizabeth,Group B,Korea Republic,Greece,South Korea,Greece,2,0,H,H,regular,Korea Republic,Greece,,H,714
+2010,2010-06-13,South Africa,Polokwane,Group C,Algeria,Slovenia,Algeria,Slovenia,0,1,A,A,regular,Slovenia,Algeria,,A,715
+2010,2010-06-13,South Africa,Durban,Group D,Germany,Australia,Germany,Australia,4,0,H,H,regular,Germany,Australia,,H,716
+2010,2010-06-13,South Africa,Pretoria,Group D,Serbia,Ghana,Serbia,Ghana,0,1,A,A,regular,Ghana,Serbia,,A,717
+2010,2010-06-14,South Africa,Cape Town,Group F,Italy,Paraguay,Italy,Paraguay,1,1,D,D,regular,,,,D,718
+2010,2010-06-14,South Africa,Bloemfontein,Group E,Japan,Cameroon,Japan,Cameroon,1,0,H,H,regular,Japan,Cameroon,,H,719
+2010,2010-06-14,South Africa,Johannesburg,Group E,Netherlands,Denmark,Netherlands,Denmark,2,0,H,H,regular,Netherlands,Denmark,,H,720
+2010,2010-06-15,South Africa,Johannesburg,Group G,Brazil,North Korea,Brazil,North Korea,2,1,H,H,regular,Brazil,North Korea,,H,721
+2010,2010-06-15,South Africa,Port Elizabeth,Group G,Côte d'Ivoire,Portugal,Ivory Coast,Portugal,0,0,D,D,regular,,,,D,722
+2010,2010-06-15,South Africa,Rustenburg,Group F,New Zealand,Slovakia,New Zealand,Slovakia,1,1,D,D,regular,,,,D,723
+2010,2010-06-16,South Africa,Nelspruit,Group H,Honduras,Chile,Honduras,Chile,0,1,A,A,regular,Chile,Honduras,,A,724
+2010,2010-06-16,South Africa,Pretoria,Group A,South Africa,Uruguay,South Africa,Uruguay,0,3,A,A,regular,Uruguay,South Africa,,A,725
+2010,2010-06-16,South Africa,Durban,Group H,Spain,Switzerland,Spain,Switzerland,0,1,A,A,regular,Switzerland,Spain,,A,726
+2010,2010-06-17,South Africa,Johannesburg,Group B,Argentina,Korea Republic,Argentina,South Korea,4,1,H,H,regular,Argentina,Korea Republic,,H,727
+2010,2010-06-17,South Africa,Polokwane,Group A,France,Mexico,France,Mexico,0,2,A,A,regular,Mexico,France,,A,728
+2010,2010-06-17,South Africa,Bloemfontein,Group B,Greece,Nigeria,Greece,Nigeria,2,1,H,H,regular,Greece,Nigeria,,H,729
+2010,2010-06-18,South Africa,Cape Town,Group C,England,Algeria,England,Algeria,0,0,D,D,regular,,,,D,730
+2010,2010-06-18,South Africa,Port Elizabeth,Group D,Germany,Serbia,Germany,Serbia,0,1,A,A,regular,Serbia,Germany,,A,731
+2010,2010-06-18,South Africa,Johannesburg,Group C,Slovenia,USA,Slovenia,United States,2,2,D,D,regular,,,,D,732
+2010,2010-06-19,South Africa,Pretoria,Group E,Cameroon,Denmark,Cameroon,Denmark,1,2,A,A,regular,Denmark,Cameroon,,A,733
+2010,2010-06-19,South Africa,Rustenburg,Group D,Ghana,Australia,Ghana,Australia,1,1,D,D,regular,,,,D,734
+2010,2010-06-19,South Africa,Durban,Group E,Netherlands,Japan,Netherlands,Japan,1,0,H,H,regular,Netherlands,Japan,,H,735
+2010,2010-06-20,South Africa,Johannesburg,Group G,Brazil,Côte d'Ivoire,Brazil,Ivory Coast,3,1,H,H,regular,Brazil,Côte d'Ivoire,,H,736
+2010,2010-06-20,South Africa,Nelspruit,Group F,Italy,New Zealand,Italy,New Zealand,1,1,D,D,regular,,,,D,737
+2010,2010-06-20,South Africa,Bloemfontein,Group F,Slovakia,Paraguay,Slovakia,Paraguay,0,2,A,A,regular,Paraguay,Slovakia,,A,738
+2010,2010-06-21,South Africa,Port Elizabeth,Group H,Chile,Switzerland,Chile,Switzerland,1,0,H,H,regular,Chile,Switzerland,,H,739
+2010,2010-06-21,South Africa,Cape Town,Group G,Portugal,North Korea,Portugal,North Korea,7,0,H,H,regular,Portugal,North Korea,,H,740
+2010,2010-06-21,South Africa,Johannesburg,Group H,Spain,Honduras,Spain,Honduras,2,0,H,H,regular,Spain,Honduras,,H,741
+2010,2010-06-22,South Africa,Polokwane,Group B,Greece,Argentina,Greece,Argentina,0,2,A,A,regular,Argentina,Greece,,A,742
+2010,2010-06-22,South Africa,Rustenburg,Group A,Mexico,Uruguay,Mexico,Uruguay,0,1,A,A,regular,Uruguay,Mexico,,A,743
+2010,2010-06-22,South Africa,Durban,Group B,Nigeria,Korea Republic,Nigeria,South Korea,2,2,D,D,regular,,,,D,744
+2010,2010-06-22,South Africa,Bloemfontein,Group A,South Africa,France,South Africa,France,2,1,H,H,regular,South Africa,France,,H,745
+2010,2010-06-23,South Africa,Nelspruit,Group D,Australia,Serbia,Australia,Serbia,2,1,H,H,regular,Australia,Serbia,,H,746
+2010,2010-06-23,South Africa,Johannesburg,Group D,Ghana,Germany,Ghana,Germany,0,1,A,A,regular,Germany,Ghana,,A,747
+2010,2010-06-23,South Africa,Port Elizabeth,Group C,Slovenia,England,Slovenia,England,0,1,A,A,regular,England,Slovenia,,A,748
+2010,2010-06-23,South Africa,Pretoria,Group C,USA,Algeria,United States,Algeria,1,0,H,H,regular,USA,Algeria,,H,749
+2010,2010-06-24,South Africa,Cape Town,Group E,Cameroon,Netherlands,Cameroon,Netherlands,1,2,A,A,regular,Netherlands,Cameroon,,A,750
+2010,2010-06-24,South Africa,Rustenburg,Group E,Denmark,Japan,Denmark,Japan,1,3,A,A,regular,Japan,Denmark,,A,751
+2010,2010-06-24,South Africa,Polokwane,Group F,Paraguay,New Zealand,Paraguay,New Zealand,0,0,D,D,regular,,,,D,752
+2010,2010-06-24,South Africa,Johannesburg,Group F,Slovakia,Italy,Slovakia,Italy,3,2,H,H,regular,Slovakia,Italy,,H,753
+2010,2010-06-25,South Africa,Pretoria,Group H,Chile,Spain,Chile,Spain,1,2,A,A,regular,Spain,Chile,,A,754
+2010,2010-06-25,South Africa,Nelspruit,Group G,North Korea,Côte d'Ivoire,North Korea,Ivory Coast,0,3,A,A,regular,Côte d'Ivoire,North Korea,,A,755
+2010,2010-06-25,South Africa,Durban,Group G,Portugal,Brazil,Portugal,Brazil,0,0,D,D,regular,,,,D,756
+2010,2010-06-25,South Africa,Bloemfontein,Group H,Switzerland,Honduras,Switzerland,Honduras,0,0,D,D,regular,,,,D,757
+2010,2010-06-26,South Africa,Port Elizabeth,Round of 16,Uruguay,Korea Republic,Uruguay,South Korea,2,1,H,H,regular,Uruguay,Korea Republic,,H,758
+2010,2010-06-26,South Africa,Rustenburg,Round of 16,USA,Ghana,United States,Ghana,1,2,A,A,extra_time,Ghana,USA,Ghana won in AET,A,759
+2010,2010-06-27,South Africa,Johannesburg,Round of 16,Argentina,Mexico,Argentina,Mexico,3,1,H,H,regular,Argentina,Mexico,,H,760
+2010,2010-06-27,South Africa,Bloemfontein,Round of 16,Germany,England,Germany,England,4,1,H,H,regular,Germany,England,,H,761
+2010,2010-06-28,South Africa,Johannesburg,Round of 16,Brazil,Chile,Brazil,Chile,3,0,H,H,regular,Brazil,Chile,,H,762
+2010,2010-06-28,South Africa,Durban,Round of 16,Netherlands,Slovakia,Netherlands,Slovakia,2,1,H,H,regular,Netherlands,Slovakia,,H,763
+2010,2010-06-29,South Africa,Pretoria,Round of 16,Paraguay,Japan,Paraguay,Japan,0,0,D,H,penalties,Paraguay,Japan,Paraguay won in penalties (5 - 3),H,764
+2010,2010-06-29,South Africa,Cape Town,Round of 16,Spain,Portugal,Spain,Portugal,1,0,H,H,regular,Spain,Portugal,,H,765
+2010,2010-07-02,South Africa,Port Elizabeth,Quarterfinals,Netherlands,Brazil,Netherlands,Brazil,2,1,H,H,regular,Netherlands,Brazil,,H,766
+2010,2010-07-02,South Africa,Johannesburg,Quarterfinals,Uruguay,Ghana,Uruguay,Ghana,1,1,D,H,penalties,Uruguay,Ghana,Uruguay won in penalties (4 - 2),H,767
+2010,2010-07-03,South Africa,Cape Town,Quarterfinals,Argentina,Germany,Argentina,Germany,0,4,A,A,regular,Germany,Argentina,,A,768
+2010,2010-07-03,South Africa,Johannesburg,Quarterfinals,Paraguay,Spain,Paraguay,Spain,0,1,A,A,regular,Spain,Paraguay,,A,769
+2010,2010-07-06,South Africa,Cape Town,Semifinals,Uruguay,Netherlands,Uruguay,Netherlands,2,3,A,A,regular,Netherlands,Uruguay,,A,770
+2010,2010-07-07,South Africa,Durban,Semifinals,Germany,Spain,Germany,Spain,0,1,A,A,regular,Spain,Germany,,A,771
+2010,2010-07-10,South Africa,Port Elizabeth,Third place,Uruguay,Germany,Uruguay,Germany,2,3,A,A,regular,Germany,Uruguay,,A,772
+2010,2010-07-11,South Africa,Johannesburg,Final,Netherlands,Spain,Netherlands,Spain,0,1,A,A,extra_time,Spain,Netherlands,Spain won in AET,A,773
+2014,2014-06-12,Brazil,São Paulo,Group A,Brazil,Croatia,Brazil,Croatia,3,1,H,H,regular,Brazil,Croatia,,H,774
+2014,2014-06-13,Brazil,Cuiabá,Group B,Chile,Australia,Chile,Australia,3,1,H,H,regular,Chile,Australia,,H,775
+2014,2014-06-13,Brazil,Natal,Group A,Mexico,Cameroon,Mexico,Cameroon,1,0,H,H,regular,Mexico,Cameroon,,H,776
+2014,2014-06-13,Brazil,Salvador,Group B,Spain,Netherlands,Spain,Netherlands,1,5,A,A,regular,Netherlands,Spain,,A,777
+2014,2014-06-14,Brazil,Belo Horizonte,Group C,Colombia,Greece,Colombia,Greece,3,0,H,H,regular,Colombia,Greece,,H,778
+2014,2014-06-14,Brazil,Manaus,Group D,England,Italy,England,Italy,1,2,A,A,regular,Italy,England,,A,779
+2014,2014-06-14,Brazil,Recife,Group C,Côte d'Ivoire,Japan,Ivory Coast,Japan,2,1,H,H,regular,Côte d'Ivoire,Japan,,H,780
+2014,2014-06-14,Brazil,Fortaleza,Group D,Uruguay,Costa Rica,Uruguay,Costa Rica,1,3,A,A,regular,Costa Rica,Uruguay,,A,781
+2014,2014-06-15,Brazil,Rio de Janeiro,Group F,Argentina,Bosnia and Herzegovina,Argentina,Bosnia and Herzegovina,2,1,H,H,regular,Argentina,Bosnia and Herzegovina,,H,782
+2014,2014-06-15,Brazil,Porto Alegre,Group E,France,Honduras,France,Honduras,3,0,H,H,regular,France,Honduras,,H,783
+2014,2014-06-15,Brazil,Brasília,Group E,Switzerland,Ecuador,Switzerland,Ecuador,2,1,H,H,regular,Switzerland,Ecuador,,H,784
+2014,2014-06-16,Brazil,Salvador,Group G,Germany,Portugal,Germany,Portugal,4,0,H,H,regular,Germany,Portugal,,H,785
+2014,2014-06-16,Brazil,Natal,Group G,Ghana,USA,Ghana,United States,1,2,A,A,regular,USA,Ghana,,A,786
+2014,2014-06-16,Brazil,Curitiba,Group F,IR Iran,Nigeria,Iran,Nigeria,0,0,D,D,regular,,,,D,787
+2014,2014-06-17,Brazil,Belo Horizonte,Group H,Belgium,Algeria,Belgium,Algeria,2,1,H,H,regular,Belgium,Algeria,,H,788
+2014,2014-06-17,Brazil,Fortaleza,Group A,Brazil,Mexico,Brazil,Mexico,0,0,D,D,regular,,,,D,789
+2014,2014-06-17,Brazil,Cuiabá,Group H,Russia,Korea Republic,Russia,South Korea,1,1,D,D,regular,,,,D,790
+2014,2014-06-18,Brazil,Curitiba,Group B,Australia,Netherlands,Australia,Netherlands,2,3,A,A,regular,Netherlands,Australia,,A,791
+2014,2014-06-18,Brazil,Manaus,Group A,Cameroon,Croatia,Cameroon,Croatia,0,4,A,A,regular,Croatia,Cameroon,,A,792
+2014,2014-06-18,Brazil,Rio de Janeiro,Group B,Spain,Chile,Spain,Chile,0,2,A,A,regular,Chile,Spain,,A,793
+2014,2014-06-19,Brazil,Brasília,Group C,Colombia,Côte d'Ivoire,Colombia,Ivory Coast,2,1,H,H,regular,Colombia,Côte d'Ivoire,,H,794
+2014,2014-06-19,Brazil,Natal,Group C,Japan,Greece,Japan,Greece,0,0,D,D,regular,,,,D,795
+2014,2014-06-19,Brazil,São Paulo,Group D,Uruguay,England,Uruguay,England,2,1,H,H,regular,Uruguay,England,,H,796
+2014,2014-06-20,Brazil,Curitiba,Group E,Honduras,Ecuador,Honduras,Ecuador,1,2,A,A,regular,Ecuador,Honduras,,A,797
+2014,2014-06-20,Brazil,Recife,Group D,Italy,Costa Rica,Italy,Costa Rica,0,1,A,A,regular,Costa Rica,Italy,,A,798
+2014,2014-06-20,Brazil,Salvador,Group E,Switzerland,France,Switzerland,France,2,5,A,A,regular,France,Switzerland,,A,799
+2014,2014-06-21,Brazil,Belo Horizonte,Group F,Argentina,IR Iran,Argentina,Iran,1,0,H,H,regular,Argentina,IR Iran,,H,800
+2014,2014-06-21,Brazil,Fortaleza,Group G,Germany,Ghana,Germany,Ghana,2,2,D,D,regular,,,,D,801
+2014,2014-06-21,Brazil,Cuiabá,Group F,Nigeria,Bosnia and Herzegovina,Nigeria,Bosnia and Herzegovina,1,0,H,H,regular,Nigeria,Bosnia and Herzegovina,,H,802
+2014,2014-06-22,Brazil,Rio de Janeiro,Group H,Belgium,Russia,Belgium,Russia,1,0,H,H,regular,Belgium,Russia,,H,803
+2014,2014-06-22,Brazil,Porto Alegre,Group H,Korea Republic,Algeria,South Korea,Algeria,2,4,A,A,regular,Algeria,Korea Republic,,A,804
+2014,2014-06-22,Brazil,Manaus,Group G,USA,Portugal,United States,Portugal,2,2,D,D,regular,,,,D,805
+2014,2014-06-23,Brazil,Curitiba,Group B,Australia,Spain,Australia,Spain,0,3,A,A,regular,Spain,Australia,,A,806
+2014,2014-06-23,Brazil,Brasília,Group A,Brazil,Cameroon,Brazil,Cameroon,4,1,H,H,regular,Brazil,Cameroon,,H,807
+2014,2014-06-23,Brazil,Recife,Group A,Croatia,Mexico,Croatia,Mexico,1,3,A,A,regular,Mexico,Croatia,,A,808
+2014,2014-06-23,Brazil,São Paulo,Group B,Netherlands,Chile,Netherlands,Chile,2,0,H,H,regular,Netherlands,Chile,,H,809
+2014,2014-06-24,Brazil,Belo Horizonte,Group D,Costa Rica,England,Costa Rica,England,0,0,D,D,regular,,,,D,810
+2014,2014-06-24,Brazil,Fortaleza,Group C,Greece,Côte d'Ivoire,Greece,Ivory Coast,2,1,H,H,regular,Greece,Côte d'Ivoire,,H,811
+2014,2014-06-24,Brazil,Natal,Group D,Italy,Uruguay,Italy,Uruguay,0,1,A,A,regular,Uruguay,Italy,,A,812
+2014,2014-06-24,Brazil,Cuiabá,Group C,Japan,Colombia,Japan,Colombia,1,4,A,A,regular,Colombia,Japan,,A,813
+2014,2014-06-25,Brazil,Salvador,Group F,Bosnia and Herzegovina,IR Iran,Bosnia and Herzegovina,Iran,3,1,H,H,regular,Bosnia and Herzegovina,IR Iran,,H,814
+2014,2014-06-25,Brazil,Rio de Janeiro,Group E,Ecuador,France,Ecuador,France,0,0,D,D,regular,,,,D,815
+2014,2014-06-25,Brazil,Manaus,Group E,Honduras,Switzerland,Honduras,Switzerland,0,3,A,A,regular,Switzerland,Honduras,,A,816
+2014,2014-06-25,Brazil,Porto Alegre,Group F,Nigeria,Argentina,Nigeria,Argentina,2,3,A,A,regular,Argentina,Nigeria,,A,817
+2014,2014-06-26,Brazil,Curitiba,Group H,Algeria,Russia,Algeria,Russia,1,1,D,D,regular,,,,D,818
+2014,2014-06-26,Brazil,São Paulo,Group H,Korea Republic,Belgium,South Korea,Belgium,0,1,A,A,regular,Belgium,Korea Republic,,A,819
+2014,2014-06-26,Brazil,Brasília,Group G,Portugal,Ghana,Portugal,Ghana,2,1,H,H,regular,Portugal,Ghana,,H,820
+2014,2014-06-26,Brazil,Recife,Group G,USA,Germany,United States,Germany,0,1,A,A,regular,Germany,USA,,A,821
+2014,2014-06-28,Brazil,Belo Horizonte,Round of 16,Brazil,Chile,Brazil,Chile,1,1,D,H,penalties,Brazil,Chile,Brazil won in penalties (3 - 2),H,822
+2014,2014-06-28,Brazil,Rio de Janeiro,Round of 16,Colombia,Uruguay,Colombia,Uruguay,2,0,H,H,regular,Colombia,Uruguay,,H,823
+2014,2014-06-29,Brazil,Recife,Round of 16,Costa Rica,Greece,Costa Rica,Greece,1,1,D,H,penalties,Costa Rica,Greece,Costa Rica won in penalties (5 - 3),H,824
+2014,2014-06-29,Brazil,Fortaleza,Round of 16,Netherlands,Mexico,Netherlands,Mexico,2,1,H,H,regular,Netherlands,Mexico,,H,825
+2014,2014-06-30,Brazil,Brasília,Round of 16,France,Nigeria,France,Nigeria,2,0,H,H,regular,France,Nigeria,,H,826
+2014,2014-06-30,Brazil,Porto Alegre,Round of 16,Germany,Algeria,Germany,Algeria,2,1,H,H,extra_time,Germany,Algeria,Germany won in AET,H,827
+2014,2014-07-01,Brazil,São Paulo,Round of 16,Argentina,Switzerland,Argentina,Switzerland,1,0,H,H,extra_time,Argentina,Switzerland,Argentina won in AET,H,828
+2014,2014-07-01,Brazil,Salvador,Round of 16,Belgium,USA,Belgium,United States,2,1,H,H,extra_time,Belgium,USA,Belgium won in AET,H,829
+2014,2014-07-04,Brazil,Fortaleza,Quarterfinals,Brazil,Colombia,Brazil,Colombia,2,1,H,H,regular,Brazil,Colombia,,H,830
+2014,2014-07-04,Brazil,Rio de Janeiro,Quarterfinals,France,Germany,France,Germany,0,1,A,A,regular,Germany,France,,A,831
+2014,2014-07-05,Brazil,Brasília,Quarterfinals,Argentina,Belgium,Argentina,Belgium,1,0,H,H,regular,Argentina,Belgium,,H,832
+2014,2014-07-05,Brazil,Salvador,Quarterfinals,Netherlands,Costa Rica,Netherlands,Costa Rica,0,0,D,H,penalties,Netherlands,Costa Rica,Netherlands won in penalties (4 - 3),H,833
+2014,2014-07-08,Brazil,Belo Horizonte,Semifinals,Brazil,Germany,Brazil,Germany,1,7,A,A,regular,Germany,Brazil,,A,834
+2014,2014-07-09,Brazil,São Paulo,Semifinals,Netherlands,Argentina,Netherlands,Argentina,0,0,D,A,penalties,Argentina,Netherlands,Argentina won in penalties (4 - 2),A,835
+2014,2014-07-12,Brazil,Brasília,Third place,Brazil,Netherlands,Brazil,Netherlands,0,3,A,A,regular,Netherlands,Brazil,,A,836
+2014,2014-07-13,Brazil,Rio de Janeiro,Final,Germany,Argentina,Germany,Argentina,1,0,H,H,extra_time,Germany,Argentina,Germany won in AET,H,837
+2018,2018-06-14,Russia,Moscow,Group A,Russia,Saudi Arabia,Russia,Saudi Arabia,5,0,H,H,regular,Russia,Saudi Arabia,,H,838
+2018,2018-06-15,Russia,Ekaterinburg,Group A,Egypt,Uruguay,Egypt,Uruguay,0,1,A,A,regular,Uruguay,Egypt,,A,839
+2018,2018-06-15,Russia,Saint Petersburg,Group B,Morocco,IR Iran,Morocco,Iran,0,1,A,A,regular,IR Iran,Morocco,,A,840
+2018,2018-06-15,Russia,Sochi,Group B,Portugal,Spain,Portugal,Spain,3,3,D,D,regular,,,,D,841
+2018,2018-06-16,Russia,Kazan,Group C,France,Australia,France,Australia,2,1,H,H,regular,France,Australia,,H,842
+2018,2018-06-16,Russia,Moscow,Group D,Argentina,Iceland,Argentina,Iceland,1,1,D,D,regular,,,,D,843
+2018,2018-06-16,Russia,Saransk,Group C,Peru,Denmark,Peru,Denmark,0,1,A,A,regular,Denmark,Peru,,A,844
+2018,2018-06-16,Russia,Kaliningrad,Group D,Croatia,Nigeria,Croatia,Nigeria,2,0,H,H,regular,Croatia,Nigeria,,H,845
+2018,2018-06-17,Russia,Samara,Group E,Costa Rica,Serbia,Costa Rica,Serbia,0,1,A,A,regular,Serbia,Costa Rica,,A,846
+2018,2018-06-17,Russia,Moscow,Group F,Germany,Mexico,Germany,Mexico,0,1,A,A,regular,Mexico,Germany,,A,847
+2018,2018-06-17,Russia,Rostov-on-Don,Group E,Brazil,Switzerland,Brazil,Switzerland,1,1,D,D,regular,,,,D,848
+2018,2018-06-18,Russia,Nizhny Novgorod,Group F,Sweden,Korea Republic,Sweden,South Korea,1,0,H,H,regular,Sweden,Korea Republic,,H,849
+2018,2018-06-18,Russia,Sochi,Group G,Belgium,Panama,Belgium,Panama,3,0,H,H,regular,Belgium,Panama,,H,850
+2018,2018-06-18,Russia,Volgograd,Group G,Tunisia,England,Tunisia,England,1,2,A,A,regular,England,Tunisia,,A,851
+2018,2018-06-19,Russia,Saransk,Group H,Colombia,Japan,Colombia,Japan,1,2,A,A,regular,Japan,Colombia,,A,852
+2018,2018-06-19,Russia,Moscow,Group H,Poland,Senegal,Poland,Senegal,1,2,A,A,regular,Senegal,Poland,,A,853
+2018,2018-06-19,Russia,Saint Petersburg,Group A,Russia,Egypt,Russia,Egypt,3,1,H,H,regular,Russia,Egypt,,H,854
+2018,2018-06-20,Russia,Moscow,Group B,Portugal,Morocco,Portugal,Morocco,1,0,H,H,regular,Portugal,Morocco,,H,855
+2018,2018-06-20,Russia,Rostov-on-Don,Group A,Uruguay,Saudi Arabia,Uruguay,Saudi Arabia,1,0,H,H,regular,Uruguay,Saudi Arabia,,H,856
+2018,2018-06-20,Russia,Kazan,Group B,IR Iran,Spain,Iran,Spain,0,1,A,A,regular,Spain,IR Iran,,A,857
+2018,2018-06-21,Russia,Samara,Group C,Denmark,Australia,Denmark,Australia,1,1,D,D,regular,,,,D,858
+2018,2018-06-21,Russia,Ekaterinburg,Group C,France,Peru,France,Peru,1,0,H,H,regular,France,Peru,,H,859
+2018,2018-06-21,Russia,Nizhny Novgorod,Group D,Argentina,Croatia,Argentina,Croatia,0,3,A,A,regular,Croatia,Argentina,,A,860
+2018,2018-06-22,Russia,Saint Petersburg,Group E,Brazil,Costa Rica,Brazil,Costa Rica,2,0,H,H,regular,Brazil,Costa Rica,,H,861
+2018,2018-06-22,Russia,Volgograd,Group D,Nigeria,Iceland,Nigeria,Iceland,2,0,H,H,regular,Nigeria,Iceland,,H,862
+2018,2018-06-22,Russia,Kaliningrad,Group E,Serbia,Switzerland,Serbia,Switzerland,1,2,A,A,regular,Switzerland,Serbia,,A,863
+2018,2018-06-23,Russia,Moscow,Group G,Belgium,Tunisia,Belgium,Tunisia,5,2,H,H,regular,Belgium,Tunisia,,H,864
+2018,2018-06-23,Russia,Rostov-on-Don,Group F,Korea Republic,Mexico,South Korea,Mexico,1,2,A,A,regular,Mexico,Korea Republic,,A,865
+2018,2018-06-23,Russia,Sochi,Group F,Germany,Sweden,Germany,Sweden,2,1,H,H,regular,Germany,Sweden,,H,866
+2018,2018-06-24,Russia,Nizhny Novgorod,Group G,England,Panama,England,Panama,6,1,H,H,regular,England,Panama,,H,867
+2018,2018-06-24,Russia,Ekaterinburg,Group H,Japan,Senegal,Japan,Senegal,2,2,D,D,regular,,,,D,868
+2018,2018-06-24,Russia,Kazan,Group H,Poland,Colombia,Poland,Colombia,0,3,A,A,regular,Colombia,Poland,,A,869
+2018,2018-06-25,Russia,Samara,Group A,Russia,Uruguay,Russia,Uruguay,0,3,A,A,regular,Uruguay,Russia,,A,870
+2018,2018-06-25,Russia,Volgograd,Group A,Saudi Arabia,Egypt,Saudi Arabia,Egypt,2,1,H,H,regular,Saudi Arabia,Egypt,,H,871
+2018,2018-06-25,Russia,Kaliningrad,Group B,Spain,Morocco,Spain,Morocco,2,2,D,D,regular,,,,D,872
+2018,2018-06-25,Russia,Saransk,Group B,IR Iran,Portugal,Iran,Portugal,1,1,D,D,regular,,,,D,873
+2018,2018-06-26,Russia,Sochi,Group C,Australia,Peru,Australia,Peru,0,2,A,A,regular,Peru,Australia,,A,874
+2018,2018-06-26,Russia,Moscow,Group C,Denmark,France,Denmark,France,0,0,D,D,regular,,,,D,875
+2018,2018-06-26,Russia,Saint Petersburg,Group D,Nigeria,Argentina,Nigeria,Argentina,1,2,A,A,regular,Argentina,Nigeria,,A,876
+2018,2018-06-26,Russia,Rostov-on-Don,Group D,Iceland,Croatia,Iceland,Croatia,1,2,A,A,regular,Croatia,Iceland,,A,877
+2018,2018-06-27,Russia,Kazan,Group F,Korea Republic,Germany,South Korea,Germany,2,0,H,H,regular,Korea Republic,Germany,,H,878
+2018,2018-06-27,Russia,Ekaterinburg,Group F,Mexico,Sweden,Mexico,Sweden,0,3,A,A,regular,Sweden,Mexico,,A,879
+2018,2018-06-27,Russia,Moscow,Group E,Serbia,Brazil,Serbia,Brazil,0,2,A,A,regular,Brazil,Serbia,,A,880
+2018,2018-06-27,Russia,Nizhny Novgorod,Group E,Switzerland,Costa Rica,Switzerland,Costa Rica,2,2,D,D,regular,,,,D,881
+2018,2018-06-28,Russia,Volgograd,Group H,Japan,Poland,Japan,Poland,0,1,A,A,regular,Poland,Japan,,A,882
+2018,2018-06-28,Russia,Samara,Group H,Senegal,Colombia,Senegal,Colombia,0,1,A,A,regular,Colombia,Senegal,,A,883
+2018,2018-06-28,Russia,Saransk,Group G,Panama,Tunisia,Panama,Tunisia,1,2,A,A,regular,Tunisia,Panama,,A,884
+2018,2018-06-28,Russia,Kaliningrad,Group G,England,Belgium,England,Belgium,0,1,A,A,regular,Belgium,England,,A,885
+2018,2018-06-30,Russia,Kazan,Round of 16,France,Argentina,France,Argentina,4,3,H,H,regular,France,Argentina,,H,886
+2018,2018-06-30,Russia,Sochi,Round of 16,Uruguay,Portugal,Uruguay,Portugal,2,1,H,H,regular,Uruguay,Portugal,,H,887
+2018,2018-07-01,Russia,Moscow,Round of 16,Russia,Spain,Russia,Spain,1,1,D,H,penalties,Russia,Spain,Russia won in penalties (4 - 3),H,888
+2018,2018-07-01,Russia,Nizhny Novgorod,Round of 16,Croatia,Denmark,Croatia,Denmark,1,1,D,H,penalties,Croatia,Denmark,Croatia won in penalties (3- 2),H,889
+2018,2018-07-02,Russia,Samara,Round of 16,Brazil,Mexico,Brazil,Mexico,2,0,H,H,regular,Brazil,Mexico,,H,890
+2018,2018-07-02,Russia,Rostov-on-Don,Round of 16,Belgium,Japan,Belgium,Japan,3,2,H,H,regular,Belgium,Japan,,H,891
+2018,2018-07-03,Russia,Saint Petersburg,Round of 16,Sweden,Switzerland,Sweden,Switzerland,1,0,H,H,regular,Sweden,Switzerland,,H,892
+2018,2018-07-03,Russia,Moscow,Round of 16,Colombia,England,Colombia,England,1,1,D,A,penalties,England,Colombia,England won in penalties (4 -3),A,893
+2018,2018-07-06,Russia,Nizhny Novgorod,Quarterfinals,Uruguay,France,Uruguay,France,0,2,A,A,regular,France,Uruguay,,A,894
+2018,2018-07-06,Russia,Kazan,Quarterfinals,Brazil,Belgium,Brazil,Belgium,1,2,A,A,regular,Belgium,Brazil,,A,895
+2018,2018-07-07,Russia,Samara,Quarterfinals,Sweden,England,Sweden,England,0,2,A,A,regular,England,Sweden,,A,896
+2018,2018-07-07,Russia,Sochi,Quarterfinals,Russia,Croatia,Russia,Croatia,2,2,D,A,penalties,Croatia,Russia,Croatia won in penalties (4 - 3),A,897
+2018,2018-07-10,Russia,Saint Petersburg,Semifinals,France,Belgium,France,Belgium,1,0,H,H,regular,France,Belgium,,H,898
+2018,2018-07-11,Russia,Moscow,Semifinals,Croatia,England,Croatia,England,2,1,H,H,extra_time,Croatia,England,Croatia won in AET,H,899
+2018,2018-07-14,Russia,Saint Petersburg,Third place,Belgium,England,Belgium,England,2,0,H,H,regular,Belgium,England,,H,900
+2018,2018-07-15,Russia,Moscow,Final,France,Croatia,France,Croatia,4,2,H,H,regular,France,Croatia,,H,901

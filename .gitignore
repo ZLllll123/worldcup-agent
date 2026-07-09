@@ -1,0 +1,27 @@
+# secrets
+.env
+*.key
+*.pem
+*api_key*
+*secret*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# pycharm
+.idea/
+
+# logs
+*.log
+
+# raw downloaded data
+data/raw/
+
+# temporary files
+tmp/
+work/
+.DS_Store

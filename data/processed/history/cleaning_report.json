@@ -1,0 +1,28 @@
+{
+  "created_at_utc": "2026-07-08T05:33:49.630265+00:00",
+  "sources": {
+    "matches": "D:\\download\\archive\\wcmatches.csv",
+    "tournaments": "D:\\download\\archive\\worldcups.csv"
+  },
+  "output_directory": "D:\\python\\pythonprogram\\agent\\data\\processed\\history",
+  "historical_match_rows": 900,
+  "tournament_rows": 21,
+  "first_tournament_year": 1930,
+  "last_tournament_year": 2018,
+  "decision_methods": {
+    "extra_time": 32,
+    "penalties": 30,
+    "regular": 838
+  },
+  "changed_team_names": 255,
+  "warnings": [],
+  "known_data_gaps": [
+    "2022 World Cup is not present in the supplied files"
+  ],
+  "legacy_teams_kept_separate": [
+    "Czechoslovakia",
+    "East Germany",
+    "Soviet Union",
+    "Yugoslavia"
+  ]
+}

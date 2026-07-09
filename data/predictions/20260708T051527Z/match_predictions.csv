@@ -1,0 +1,9 @@
+﻿match_number,date,stage,team_a,team_b,expected_goals_a,expected_goals_b,win_90_a,draw_90,win_90_b,advance_a,advance_b,most_likely_score,predicted_winner
+97,2026-07-09,quarter_final,France,Morocco,1.705,0.767,0.597803,0.236645,0.165552,0.752347,0.247653,1-0,France
+98,2026-07-10,quarter_final,Spain,Belgium,1.364,0.828,0.494116,0.27828,0.227604,0.65966,0.34034,1-0,Spain
+99,2026-07-11,quarter_final,Norway,England,1.451,2.258,0.242415,0.200194,0.557391,0.320599,0.679401,1-2,England
+100,2026-07-11,quarter_final,Argentina,Switzerland,1.475,1.086,0.461052,0.260198,0.27875,0.633943,0.366057,1-1,Argentina
+101,2026-07-14,semi_final,France,Spain,0.951,0.789,0.377666,0.334059,0.288274,0.567884,0.432116,0-0,France
+102,2026-07-15,semi_final,England,Argentina,1.285,1.681,0.293455,0.239444,0.467101,0.393524,0.606476,1-1,Argentina
+103,2026-07-18,third_place,Spain,England,1.275,0.722,0.496543,0.292568,0.210889,0.650495,0.349505,1-0,Spain
+104,2026-07-19,final,France,Argentina,1.693,1.04,0.526549,0.240922,0.232529,0.650206,0.349794,1-1,France

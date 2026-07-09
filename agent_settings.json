@@ -1,0 +1,7 @@
+{
+  "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "model": "qwen3.6-plus",
+  "enable_thinking": false,
+  "max_tool_rounds": 8,
+  "timeout_seconds": 120
+}
